@@ -1,0 +1,435 @@
+Adjusted net enrolment rate, primary, female (%);SE.PRM.TENR.FE;0.64
+Adjusted net enrolment rate, primary, male (%);SE.PRM.TENR.MA;0.64
+Enrolment in pre-primary education, female (number);SE.PRE.ENRL.FE;0.92
+Gross enrolment ratio, pre-primary, both sexes (%);SE.PRE.ENRR;0.72
+Gross enrolment ratio, pre-primary, female (%);SE.PRE.ENRR.FE;0.92
+Gross enrolment ratio, pre-primary, male (%);SE.PRE.ENRR.MA;0.92
+Labor force with advanced education (% of total);SL.TLF.ADVN.ZS;0.8
+Labor force with basic education (% of total);SL.TLF.BASC.ZS;0.8
+Labor force with intermediate education (% of total);SL.TLF.INTM.ZS;0.8
+Net enrolment rate, pre-primary, both sexes (%);SE.PRE.NENR;0.92
+Net enrolment rate, pre-primary, female (%);SE.PRE.NENR.FE;0.92
+Net enrolment rate, pre-primary, male (%);SE.PRE.NENR.MA;0.92
+Net enrolment rate, primary, female (%);SE.PRM.NENR.FE;0.64
+Net enrolment rate, primary, male (%);SE.PRM.NENR.MA;0.64
+Net enrolment rate, secondary, both sexes (%);SE.SEC.NENR;0.76
+Net enrolment rate, secondary, female (%);SE.SEC.NENR.FE;0.76
+Net enrolment rate, secondary, male (%);SE.SEC.NENR.MA;0.76
+Out-of-school children of primary school age, female (number);SE.PRM.UNER.FE;0.64
+Out-of-school children of primary school age, male (number);SE.PRM.UNER.MA;0.64
+Percentage of enrolment in pre-primary education in private institutions (%);SE.PRE.PRIV.ZS;0.64
+Percentage of female students enrolled in primary education who are over-age, female (%);UIS.OAEP.1.F;0.6
+Percentage of male students enrolled in primary education who are over-age, male (%);UIS.OAEP.1.M;0.6
+Percentage of students in pre-primary education who are female (%);SE.PRE.ENRL.FE.ZS;0.92
+PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1;LO.PISA.MAT.0;0.84
+PISA: 15-year-olds by mathematics proficiency level (%). Level 1;LO.PISA.MAT.1;0.84
+PISA: 15-year-olds by mathematics proficiency level (%). Level 2;LO.PISA.MAT.2;0.84
+PISA: 15-year-olds by mathematics proficiency level (%). Level 3;LO.PISA.MAT.3;0.84
+PISA: 15-year-olds by mathematics proficiency level (%). Level 4;LO.PISA.MAT.4;0.84
+PISA: 15-year-olds by mathematics proficiency level (%). Level 5;LO.PISA.MAT.5;0.84
+PISA: 15-year-olds by mathematics proficiency level (%). Level 6;LO.PISA.MAT.6;0.84
+PISA: 15-year-olds by reading proficiency level (%). Below Level 1B;LO.PISA.REA.0;0.92
+PISA: 15-year-olds by reading proficiency level (%). Level 1A;LO.PISA.REA.1A;0.8
+PISA: 15-year-olds by reading proficiency level (%). Level 1B;LO.PISA.REA.1B;0.92
+PISA: 15-year-olds by reading proficiency level (%). Level 2;LO.PISA.REA.2;0.8
+PISA: 15-year-olds by reading proficiency level (%). Level 3;LO.PISA.REA.3;0.8
+PISA: 15-year-olds by reading proficiency level (%). Level 4;LO.PISA.REA.4;0.8
+PISA: 15-year-olds by reading proficiency level (%). Level 5;LO.PISA.REA.5;0.8
+PISA: 15-year-olds by reading proficiency level (%). Level 6;LO.PISA.REA.6;0.8
+PISA: 15-year-olds by science proficiency level (%). Below Level 1B;LO.PISA.SCI.0;0.88
+PISA: 15-year-olds by science proficiency level (%). Level 1A;LO.PISA.SCI.1A;0.84
+PISA: 15-year-olds by science proficiency level (%). Level 1B;LO.PISA.SCI.1B;0.88
+PISA: 15-year-olds by science proficiency level (%). Level 2;LO.PISA.SCI.2;0.84
+PISA: 15-year-olds by science proficiency level (%). Level 3;LO.PISA.SCI.3;0.84
+PISA: 15-year-olds by science proficiency level (%). Level 4;LO.PISA.SCI.4;0.84
+PISA: 15-year-olds by science proficiency level (%). Level 5;LO.PISA.SCI.5;0.84
+PISA: 15-year-olds by science proficiency level (%). Level 6;LO.PISA.SCI.6;0.84
+PISA: Distribution of Mathematics Scores: 10th Percentile Score;LO.PISA.MAT.P10;0.8
+PISA: Distribution of Mathematics Scores: 25th Percentile Score;LO.PISA.MAT.P25;0.8
+PISA: Distribution of Mathematics Scores: 50th Percentile Score;LO.PISA.MAT.P50;0.8
+PISA: Distribution of Mathematics Scores: 5th Percentile Score;LO.PISA.MAT.P05;0.8
+PISA: Distribution of Mathematics Scores: 75th Percentile Score;LO.PISA.MAT.P75;0.8
+PISA: Distribution of Mathematics Scores: 90th Percentile Score;LO.PISA.MAT.P90;0.8
+PISA: Distribution of Mathematics Scores: 95th Percentile Score;LO.PISA.MAT.P95;0.8
+PISA: Distribution of Reading Scores: 10th Percentile Score;LO.PISA.REA.P10;0.8
+PISA: Distribution of Reading Scores: 25th Percentile Score;LO.PISA.REA.P25;0.8
+PISA: Distribution of Reading Scores: 50th Percentile Score;LO.PISA.REA.P50;0.8
+PISA: Distribution of Reading Scores: 5th Percentile Score;LO.PISA.REA.P05;0.8
+PISA: Distribution of Reading Scores: 75th Percentile Score;LO.PISA.REA.P75;0.8
+PISA: Distribution of Reading Scores: 90th Percentile Score;LO.PISA.REA.P90;0.8
+PISA: Distribution of Reading Scores: 95th Percentile Score;LO.PISA.REA.P95;0.8
+PISA: Distribution of Science Scores: 10th Percentile Score;LO.PISA.SCI.P10;0.8
+PISA: Distribution of Science Scores: 25th Percentile Score;LO.PISA.SCI.P25;0.8
+PISA: Distribution of Science Scores: 50th Percentile Score;LO.PISA.SCI.P50;0.8
+PISA: Distribution of Science Scores: 5th Percentile Score;LO.PISA.SCI.P05;0.8
+PISA: Distribution of Science Scores: 75th Percentile Score;LO.PISA.SCI.P75;0.8
+PISA: Distribution of Science Scores: 90th Percentile Score;LO.PISA.SCI.P90;0.8
+PISA: Distribution of Science Scores: 95th Percentile Score;LO.PISA.SCI.P95;0.8
+PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1;LO.PISA.MAT.0.FE;0.84
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1;LO.PISA.MAT.1.FE;0.84
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2;LO.PISA.MAT.2.FE;0.84
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3;LO.PISA.MAT.3.FE;0.84
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4;LO.PISA.MAT.4.FE;0.84
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5;LO.PISA.MAT.5.FE;0.84
+PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6;LO.PISA.MAT.6.FE;0.84
+PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1B;LO.PISA.REA.0.FE;0.92
+PISA: Female 15-year-olds by reading proficiency level (%). Level 1A;LO.PISA.REA.1A.FE;0.8
+PISA: Female 15-year-olds by reading proficiency level (%). Level 1B;LO.PISA.REA.1B.FE;0.92
+PISA: Female 15-year-olds by reading proficiency level (%). Level 2;LO.PISA.REA.2.FE;0.8
+PISA: Female 15-year-olds by reading proficiency level (%). Level 3;LO.PISA.REA.3.FE;0.8
+PISA: Female 15-year-olds by reading proficiency level (%). Level 4;LO.PISA.REA.4.FE;0.8
+PISA: Female 15-year-olds by reading proficiency level (%). Level 5;LO.PISA.REA.5.FE;0.8
+PISA: Female 15-year-olds by reading proficiency level (%). Level 6;LO.PISA.REA.6.FE;0.8
+PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B;LO.PISA.SCI.0.FE;0.88
+PISA: Female 15-year-olds by science proficiency level (%). Level 1A;LO.PISA.SCI.1A.FE;0.84
+PISA: Female 15-year-olds by science proficiency level (%). Level 1B;LO.PISA.SCI.1B.FE;0.88
+PISA: Female 15-year-olds by science proficiency level (%). Level 2;LO.PISA.SCI.2.FE;0.84
+PISA: Female 15-year-olds by science proficiency level (%). Level 3;LO.PISA.SCI.3.FE;0.84
+PISA: Female 15-year-olds by science proficiency level (%). Level 4;LO.PISA.SCI.4.FE;0.84
+PISA: Female 15-year-olds by science proficiency level (%). Level 5;LO.PISA.SCI.5.FE;0.84
+PISA: Female 15-year-olds by science proficiency level (%). Level 6;LO.PISA.SCI.6.FE;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1;LO.PISA.MAT.0.MA;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1;LO.PISA.MAT.1.MA;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2;LO.PISA.MAT.2.MA;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3;LO.PISA.MAT.3.MA;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4;LO.PISA.MAT.4.MA;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5;LO.PISA.MAT.5.MA;0.84
+PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6;LO.PISA.MAT.6.MA;0.84
+PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1B;LO.PISA.REA.0.MA;0.92
+PISA: Male 15-year-olds by reading proficiency level (%). Level 1A;LO.PISA.REA.1A.MA;0.8
+PISA: Male 15-year-olds by reading proficiency level (%). Level 1B;LO.PISA.REA.1B.MA;0.92
+PISA: Male 15-year-olds by reading proficiency level (%). Level 2;LO.PISA.REA.2.MA;0.8
+PISA: Male 15-year-olds by reading proficiency level (%). Level 3;LO.PISA.REA.3.MA;0.8
+PISA: Male 15-year-olds by reading proficiency level (%). Level 4;LO.PISA.REA.4.MA;0.8
+PISA: Male 15-year-olds by reading proficiency level (%). Level 5;LO.PISA.REA.5.MA;0.8
+PISA: Male 15-year-olds by reading proficiency level (%). Level 6;LO.PISA.REA.6.MA;0.8
+PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B;LO.PISA.SCI.0.MA;0.88
+PISA: Male 15-year-olds by science proficiency level (%). Level 1A;LO.PISA.SCI.1A.MA;0.84
+PISA: Male 15-year-olds by science proficiency level (%). Level 1B;LO.PISA.SCI.1B.MA;0.88
+PISA: Male 15-year-olds by science proficiency level (%). Level 2;LO.PISA.SCI.2.MA;0.84
+PISA: Male 15-year-olds by science proficiency level (%). Level 3;LO.PISA.SCI.3.MA;0.84
+PISA: Male 15-year-olds by science proficiency level (%). Level 4;LO.PISA.SCI.4.MA;0.84
+PISA: Male 15-year-olds by science proficiency level (%). Level 5;LO.PISA.SCI.5.MA;0.84
+PISA: Male 15-year-olds by science proficiency level (%). Level 6;LO.PISA.SCI.6.MA;0.84
+PISA: Mean performance on the mathematics scale;LO.PISA.MAT;0.8
+PISA: Mean performance on the mathematics scale. Female;LO.PISA.MAT.FE;0.8
+PISA: Mean performance on the mathematics scale. Male;LO.PISA.MAT.MA;0.8
+PISA: Mean performance on the reading scale;LO.PISA.REA;0.8
+PISA: Mean performance on the reading scale. Female;LO.PISA.REA.FE;0.8
+PISA: Mean performance on the reading scale. Male;LO.PISA.REA.MA;0.8
+PISA: Mean performance on the science scale;LO.PISA.SCI;0.8
+PISA: Mean performance on the science scale. Female;LO.PISA.SCI.FE;0.8
+PISA: Mean performance on the science scale. Male;LO.PISA.SCI.MA;0.8
+Rate of out-of-school adolescents of lower secondary school age, both sexes (%);UIS.ROFST.2;0.76
+Rate of out-of-school adolescents of lower secondary school age, female (%);UIS.ROFST.2.F;0.76
+Rate of out-of-school adolescents of lower secondary school age, male (%);UIS.ROFST.2.M;0.76
+Rate of out-of-school children of primary school age, female (%);UIS.ROFST.1.F;0.64
+Rate of out-of-school children of primary school age, male (%);UIS.ROFST.1.M;0.64
+Wittgenstein Projection: Mean years of schooling. Age 0-19. Female;PRJ.MYS.0T19.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 0-19. Male;PRJ.MYS.0T19.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 0-19. Total;PRJ.MYS.0T19.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 15+. Female;PRJ.MYS.15UP.FE;0.96
+Wittgenstein Projection: Mean Years of Schooling. Age 15+. Gender Gap;PRJ.MYS.15UP.GPI;0.96
+Wittgenstein Projection: Mean years of schooling. Age 15+. Male;PRJ.MYS.15UP.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 15+. Total;PRJ.MYS.15UP.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 15-19. Female;PRJ.MYS.1519.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 15-19. Male;PRJ.MYS.1519.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 15-19. Total;PRJ.MYS.1519.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-24. Female;PRJ.MYS.2024.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-24. Male;PRJ.MYS.2024.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-24. Total;PRJ.MYS.2024.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-39. Female;PRJ.MYS.2039.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-39. Male;PRJ.MYS.2039.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-39. Total;PRJ.MYS.2039.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-64. Female;PRJ.MYS.2064.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-64. Male;PRJ.MYS.2064.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 20-64. Total;PRJ.MYS.2064.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 25+. Female;PRJ.MYS.25UP.FE;0.96
+Wittgenstein Projection: Mean Years of Schooling. Age 25+. Gender Gap;PRJ.MYS.25UP.GPI;0.96
+Wittgenstein Projection: Mean years of schooling. Age 25+. Male;PRJ.MYS.25UP.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 25+. Total;PRJ.MYS.25UP.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 25-29. Female;PRJ.MYS.2529.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 25-29. Male;PRJ.MYS.2529.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 25-29. Total;PRJ.MYS.2529.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 40-64. Female;PRJ.MYS.4064.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 40-64. Male;PRJ.MYS.4064.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 40-64. Total;PRJ.MYS.4064.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 60+. Female;PRJ.MYS.60UP.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 60+. Male;PRJ.MYS.60UP.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 60+. Total;PRJ.MYS.60UP.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 65+. Female;PRJ.MYS.65UP.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 65+. Male;PRJ.MYS.65UP.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 65+. Total;PRJ.MYS.65UP.MF;0.96
+Wittgenstein Projection: Mean years of schooling. Age 80+. Female;PRJ.MYS.80UP.FE;0.96
+Wittgenstein Projection: Mean years of schooling. Age 80+. Male;PRJ.MYS.80UP.MA;0.96
+Wittgenstein Projection: Mean years of schooling. Age 80+. Total;PRJ.MYS.80UP.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.15UP.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.15UP.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.15UP.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.15UP.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.15UP.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.15UP.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. No Education. Female;PRJ.ATT.15UP.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. No Education. Male;PRJ.ATT.15UP.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. No Education. Total;PRJ.ATT.15UP.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.15UP.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.15UP.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.15UP.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Primary. Female;PRJ.ATT.15UP.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Primary. Male;PRJ.ATT.15UP.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Primary. Total;PRJ.ATT.15UP.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.15UP.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.15UP.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15+ by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.15UP.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.1519.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.1519.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.1519.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.1519.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.1519.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.1519.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. No Education. Female;PRJ.ATT.1519.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. No Education. Male;PRJ.ATT.1519.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. No Education. Total;PRJ.ATT.1519.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.1519.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.1519.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.1519.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Primary. Female;PRJ.ATT.1519.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Primary. Male;PRJ.ATT.1519.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Primary. Total;PRJ.ATT.1519.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.1519.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.1519.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 15-19 by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.1519.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.2024.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.2024.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.2024.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.2024.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.2024.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.2024.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. No Education. Female;PRJ.ATT.2024.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. No Education. Male;PRJ.ATT.2024.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. No Education. Total;PRJ.ATT.2024.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.2024.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.2024.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.2024.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Primary. Female;PRJ.ATT.2024.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Primary. Male;PRJ.ATT.2024.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Primary. Total;PRJ.ATT.2024.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.2024.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.2024.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-24 by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.2024.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.2039.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.2039.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.2039.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.2039.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.2039.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.2039.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. No Education. Female;PRJ.ATT.2039.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. No Education. Male;PRJ.ATT.2039.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. No Education. Total;PRJ.ATT.2039.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.2039.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.2039.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.2039.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Primary. Female;PRJ.ATT.2039.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Primary. Male;PRJ.ATT.2039.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Primary. Total;PRJ.ATT.2039.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.2039.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.2039.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-39 by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.2039.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.2064.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.2064.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.2064.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.2064.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.2064.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.2064.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. No Education. Female;PRJ.ATT.2064.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. No Education. Male;PRJ.ATT.2064.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. No Education. Total;PRJ.ATT.2064.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.2064.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.2064.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.2064.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Primary. Female;PRJ.ATT.2064.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Primary. Male;PRJ.ATT.2064.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Primary. Total;PRJ.ATT.2064.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.2064.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.2064.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 20-64 by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.2064.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.25UP.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.25UP.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.25UP.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.25UP.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.25UP.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.25UP.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. No Education. Female;PRJ.ATT.25UP.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. No Education. Male;PRJ.ATT.25UP.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. No Education. Total;PRJ.ATT.25UP.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.25UP.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.25UP.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.25UP.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Primary. Female;PRJ.ATT.25UP.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Primary. Male;PRJ.ATT.25UP.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Primary. Total;PRJ.ATT.25UP.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.25UP.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.25UP.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25+ by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.25UP.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.2529.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.2529.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.2529.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.2529.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.2529.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.2529.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. No Education. Female;PRJ.ATT.2529.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. No Education. Male;PRJ.ATT.2529.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. No Education. Total;PRJ.ATT.2529.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.2529.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.2529.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.2529.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Primary. Female;PRJ.ATT.2529.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Primary. Male;PRJ.ATT.2529.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Primary. Total;PRJ.ATT.2529.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.2529.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.2529.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 25-29 by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.2529.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.4064.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.4064.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.4064.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.4064.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.4064.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.4064.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. No Education. Female;PRJ.ATT.4064.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. No Education. Male;PRJ.ATT.4064.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. No Education. Total;PRJ.ATT.4064.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.4064.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.4064.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.4064.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Primary. Female;PRJ.ATT.4064.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Primary. Male;PRJ.ATT.4064.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Primary. Total;PRJ.ATT.4064.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.4064.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.4064.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 40-64 by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.4064.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.60UP.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.60UP.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.60UP.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.60UP.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.60UP.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.60UP.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. No Education. Female;PRJ.ATT.60UP.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. No Education. Male;PRJ.ATT.60UP.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. No Education. Total;PRJ.ATT.60UP.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.60UP.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.60UP.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.60UP.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Primary. Female;PRJ.ATT.60UP.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Primary. Male;PRJ.ATT.60UP.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Primary. Total;PRJ.ATT.60UP.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.60UP.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.60UP.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 60+ by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.60UP.3.MF;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.80UP.S1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.80UP.S1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.80UP.S1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.80UP.2.FE;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.80UP.2.MA;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.80UP.2.MF;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. No Education. Female;PRJ.ATT.80UP.NED.FE;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. No Education. Male;PRJ.ATT.80UP.NED.MA;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. No Education. Total;PRJ.ATT.80UP.NED.MF;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.80UP.4.FE;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.80UP.4.MA;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.80UP.4.MF;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Primary. Female;PRJ.ATT.80UP.1.FE;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Primary. Male;PRJ.ATT.80UP.1.MA;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Primary. Total;PRJ.ATT.80UP.1.MF;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.80UP.3.FE;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.80UP.3.MA;0.96
+Wittgenstein Projection: Percentage of the population age 80+ by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.80UP.3.MF;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Incomplete Primary. Female;PRJ.ATT.ALL.S1.FE;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Incomplete Primary. Male;PRJ.ATT.ALL.S1.MA;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Incomplete Primary. Total;PRJ.ATT.ALL.S1.MF;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Female;PRJ.ATT.ALL.2.FE;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Male;PRJ.ATT.ALL.2.MA;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Lower Secondary. Total;PRJ.ATT.ALL.2.MF;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. No Education. Female;PRJ.ATT.ALL.NED.FE;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. No Education. Male;PRJ.ATT.ALL.NED.MA;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. No Education. Total;PRJ.ATT.ALL.NED.MF;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Female;PRJ.ATT.ALL.4.FE;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Male;PRJ.ATT.ALL.4.MA;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Post Secondary. Total;PRJ.ATT.ALL.4.MF;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Primary. Female;PRJ.ATT.ALL.1.FE;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Primary. Male;PRJ.ATT.ALL.1.MA;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Primary. Total;PRJ.ATT.ALL.1.MF;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Female;PRJ.ATT.ALL.3.FE;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Male;PRJ.ATT.ALL.3.MA;0.96
+Wittgenstein Projection: Percentage of the total population by highest level of educational attainment. Upper Secondary. Total;PRJ.ATT.ALL.3.MF;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Incomplete Primary. Female;PRJ.POP.1519.S1.FE;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Incomplete Primary. Male;PRJ.POP.1519.S1.MA;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Incomplete Primary. Total;PRJ.POP.1519.S1.MF;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Female;PRJ.POP.1519.2.FE;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Male;PRJ.POP.1519.2.MA;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Total;PRJ.POP.1519.2.MF;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. No Education. Female;PRJ.POP.1519.NED.FE;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. No Education. Male;PRJ.POP.1519.NED.MA;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. No Education. Total;PRJ.POP.1519.NED.MF;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Female;PRJ.POP.1519.4.FE;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Male;PRJ.POP.1519.4.MA;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Post Secondary. Total;PRJ.POP.1519.4.MF;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Female;PRJ.POP.1519.1.FE;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Male;PRJ.POP.1519.1.MA;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Total;PRJ.POP.1519.1.MF;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Female;PRJ.POP.1519.3.FE;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Male;PRJ.POP.1519.3.MA;0.96
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Total;PRJ.POP.1519.3.MF;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Incomplete Primary. Female;PRJ.POP.2024.S1.FE;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Incomplete Primary. Male;PRJ.POP.2024.S1.MA;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Incomplete Primary. Total;PRJ.POP.2024.S1.MF;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Female;PRJ.POP.2024.2.FE;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Male;PRJ.POP.2024.2.MA;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Total;PRJ.POP.2024.2.MF;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. No Education. Female;PRJ.POP.2024.NED.FE;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. No Education. Male;PRJ.POP.2024.NED.MA;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. No Education. Total;PRJ.POP.2024.NED.MF;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Female;PRJ.POP.2024.4.FE;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Male;PRJ.POP.2024.4.MA;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Post Secondary. Total;PRJ.POP.2024.4.MF;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Female;PRJ.POP.2024.1.FE;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Male;PRJ.POP.2024.1.MA;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Total;PRJ.POP.2024.1.MF;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Female;PRJ.POP.2024.3.FE;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Male;PRJ.POP.2024.3.MA;0.96
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Total;PRJ.POP.2024.3.MF;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Female;PRJ.POP.2529.S1.FE;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Male;PRJ.POP.2529.S1.MA;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Total;PRJ.POP.2529.S1.MF;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Female;PRJ.POP.2529.2.FE;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Male;PRJ.POP.2529.2.MA;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Total;PRJ.POP.2529.2.MF;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. No Education. Female;PRJ.POP.2529.NED.FE;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. No Education. Male;PRJ.POP.2529.NED.MA;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. No Education. Total;PRJ.POP.2529.NED.MF;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Female;PRJ.POP.2529.4.FE;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Male;PRJ.POP.2529.4.MA;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Total;PRJ.POP.2529.4.MF;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Female;PRJ.POP.2529.1.FE;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Male;PRJ.POP.2529.1.MA;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Total;PRJ.POP.2529.1.MF;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Female;PRJ.POP.2529.3.FE;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Male;PRJ.POP.2529.3.MA;0.96
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Total;PRJ.POP.2529.3.MF;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Female;PRJ.POP.ALL.S1.FE;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Male;PRJ.POP.ALL.S1.MA;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Total;PRJ.POP.ALL.S1.MF;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Female;PRJ.POP.ALL.2.FE;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Male;PRJ.POP.ALL.2.MA;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Total;PRJ.POP.ALL.2.MF;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Female;PRJ.POP.ALL.NED.FE;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Male;PRJ.POP.ALL.NED.MA;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Total;PRJ.POP.ALL.NED.MF;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Female;PRJ.POP.ALL.4.FE;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Male;PRJ.POP.ALL.4.MA;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Total;PRJ.POP.ALL.4.MF;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Female;PRJ.POP.ALL.1.FE;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Male;PRJ.POP.ALL.1.MA;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Total;PRJ.POP.ALL.1.MF;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Female;PRJ.POP.ALL.3.FE;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Male;PRJ.POP.ALL.3.MA;0.96
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Total;PRJ.POP.ALL.3.MF;0.96
