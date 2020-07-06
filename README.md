@@ -10,9 +10,6 @@ Bibliotecas:
 
 - Pandas (```pip3 install pandas```)
 
-Requerimentos:
-
-- Espaço físico de 400MB.
 
 Dataset:
 

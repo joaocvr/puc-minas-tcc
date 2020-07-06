@@ -11,10 +11,10 @@ def extrair_indicadores_todos_paises():
     lista_codigos_indicadores_relevantes = carregar_codigos_indicadores_relevantes()
 
     arquivo_massa_indicadores = open("./data/massa_indicadores_todos_paises.csv", "w")
-    arquivo_massa_indicadores.write("Country Name;Indicator Name;Indicator Code;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013\n")
+    arquivo_massa_indicadores.write("Country Name;Indicator Code;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013\n")
 
     coluna_nome_pais = 0
-    coluna_indicador_nome = 2
+    #coluna_indicador_nome = 2
     coluna_indicador_codigo = 3
     coluna_1999 = 33
     coluna_2013 = 48
@@ -28,14 +28,14 @@ def extrair_indicadores_todos_paises():
             continue
 
         nome_pais = str(df.iloc[i, coluna_nome_pais])
-        indicador_nome = str(df.iloc[i, coluna_indicador_nome])
+        #indicador_nome = str(df.iloc[i, coluna_indicador_nome])
         series_colunas_1999_a_2013 = df.iloc[i, coluna_1999:coluna_2013].fillna(0)
         
         dados_anos=""
         for ano_coluna in series_colunas_1999_a_2013:
             dados_anos = dados_anos + ";" + str(ano_coluna)
         
-        linha = nome_pais + ';'+ indicador_nome + ';' + indicador_codigo + dados_anos + '\n'
+        linha = nome_pais + ';'+ indicador_codigo + dados_anos + '\n'
         arquivo_massa_indicadores.write(linha)
 
 
