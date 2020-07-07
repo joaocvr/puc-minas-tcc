@@ -8,7 +8,10 @@ Passo a passo para execução:
 
 Bibliotecas:
 
-- Pandas (```pip3 install pandas```)
+- Pandas
+- Zipfile
+- Matplotlib
+- Numpy
 
 
 Dataset:
