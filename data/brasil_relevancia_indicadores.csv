@@ -1,524 +1,595 @@
-Adjusted net enrolment rate, primary, both sexes (%);SE.PRM.TENR;0.8
-Adjusted net intake rate to Grade 1 of primary education, both sexes (%);UIS.NIRA.1;0.8
-Adult illiterate population, 15+ years, % female;UIS.LPP.AG15T99;0.6666666666666667
-Adult illiterate population, 15+ years, both sexes (number);UIS.LP.AG15T99;0.6666666666666667
-Adult illiterate population, 15+ years, female (number);UIS.LP.AG15T99.F;0.6666666666666667
-Adult illiterate population, 15+ years, male (number);UIS.LP.AG15T99.M;0.6666666666666667
-Adult literacy rate, population 15+ years, both sexes (%);SE.ADT.LITR.ZS;0.6666666666666667
-Adult literacy rate, population 15+ years, female (%);SE.ADT.LITR.FE.ZS;0.6666666666666667
-Adult literacy rate, population 15+ years, gender parity index (GPI);UIS.LR.AG15T99.GPI;0.6666666666666667
-Adult literacy rate, population 15+ years, male (%);SE.ADT.LITR.MA.ZS;0.6666666666666667
-All staff compensation as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNS;0.9333333333333333
-All staff compensation as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNS;0.9333333333333333
-All staff compensation as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNS;0.9333333333333333
-All staff compensation as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNS;0.9333333333333333
-All staff compensation as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNS;0.9333333333333333
-All staff compensation as % of total expenditure in upper secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNS;0.9333333333333333
-Capital expenditure as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNCAP;0.9333333333333333
-Capital expenditure as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNCAP;0.9333333333333333
-Capital expenditure as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNCAP;0.9333333333333333
-Capital expenditure as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNCAP;0.9333333333333333
-Capital expenditure as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNCAP;0.9333333333333333
-Capital expenditure as % of total expenditure in upper-secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNCAP;0.9333333333333333
-Current expenditure as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNCUR;0.9333333333333333
-Current expenditure as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNCUR;0.9333333333333333
-Current expenditure as % of total expenditure in public institutions (%);SE.XPD.CUR.TOTL.ZS;0.9333333333333333
-Current expenditure as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNCUR;0.9333333333333333
-Current expenditure as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNCUR;0.9333333333333333
-Current expenditure as % of total expenditure in upper-secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNCUR;0.9333333333333333
-Current expenditure other than staff compensation as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNNONS;0.9333333333333333
-Current expenditure other than staff compensation as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNNONS;0.9333333333333333
-Current expenditure other than staff compensation as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNNONS;0.9333333333333333
-Current expenditure other than staff compensation as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNNONS;0.9333333333333333
-Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNNONS;0.9333333333333333
-Current expenditure other than staff compensation as % of total expenditure in upper secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNNONS;0.9333333333333333
-Duration of compulsory education (years);SE.COM.DURS;1.0
-Elderly illiterate population, 65+ years, % female;UIS.LPP.AG65;0.6666666666666667
-Elderly illiterate population, 65+ years, both sexes (number);UIS.LP.AG65;0.6666666666666667
-Elderly illiterate population, 65+ years, female (number);UIS.LP.AG65.F;0.6666666666666667
-Elderly illiterate population, 65+ years, male (number);UIS.LP.AG65.M;0.6666666666666667
-Elderly literacy rate, population 65+ years, both sexes (%);UIS.LR.AG65;0.6666666666666667
-Elderly literacy rate, population 65+ years, female (%);UIS.LR.AG65.F;0.6666666666666667
-Elderly literacy rate, population 65+ years, gender parity index (GPI);UIS.LR.AG65.GPI;0.6666666666666667
-Elderly literacy rate, population 65+ years, male (%);UIS.LR.AG65.M;0.6666666666666667
-Enrolment in Grade 1 of lower secondary general education, both sexes (number);UIS.E.2.GPV.G1.T;0.8
-Enrolment in Grade 1 of lower secondary general education, female (number);UIS.E.2.GPV.G1.F;0.8
-Enrolment in lower secondary education, both sexes (number);UIS.E.2;0.9333333333333333
-Enrolment in lower secondary education, female (number);UIS.E.2.F;0.9333333333333333
-Enrolment in lower secondary education, private institutions, both sexes (number);UIS.E.2.PR;0.9333333333333333
-Enrolment in lower secondary education, public institutions, both sexes (number);UIS.E.2.PU;0.9333333333333333
-Enrolment in lower secondary general, both sexes (number);UIS.E.2.GPV;0.9333333333333333
-Enrolment in lower secondary general, female (number);UIS.E.2.GPV.F;0.9333333333333333
-Enrolment in primary education, both sexes (number);SE.PRM.ENRL;0.9333333333333333
-Enrolment in primary education, female (number);SE.PRM.ENRL.FE;0.9333333333333333
-Enrolment in primary education, private institutions, both sexes (number);UIS.E.1.PR;0.9333333333333333
-Enrolment in primary education, public institutions, both sexes (number);UIS.E.1.PU;0.9333333333333333
-Enrolment in secondary education, both sexes (number);SE.SEC.ENRL;0.7333333333333334
-Enrolment in secondary education, female (number);SE.SEC.ENRL.FE;0.7333333333333334
-Enrolment in secondary education, private institutions, both sexes (number);UIS.E.23.PR;0.8
-Enrolment in secondary education, public institutions, both sexes (number);UIS.E.23.PU;0.8
-Enrolment in secondary general, both sexes (number);SE.SEC.ENRL.GC;0.9333333333333333
-Enrolment in secondary general, female (number);SE.SEC.ENRL.GC.FE;0.9333333333333333
-Enrolment in secondary vocational, both sexes (number);SE.SEC.ENRL.VO;0.7333333333333334
-Enrolment in secondary vocational, female (number);SE.SEC.ENRL.VO.FE;0.7333333333333334
-Enrolment in tertiary education per 100,000 inhabitants, both sexes;UIS.TE_100000.56;0.8
-Enrolment in tertiary education per 100,000 inhabitants, female;UIS.TE_100000.56.F;0.8
-Enrolment in tertiary education per 100,000 inhabitants, male;UIS.TE_100000.56.M;0.8
-Enrolment in tertiary education, all programmes, both sexes (number);SE.TER.ENRL;0.9333333333333333
-Enrolment in tertiary education, all programmes, female (number);SE.TER.ENRL.FE;0.9333333333333333
-Enrolment in tertiary education, ISCED 5 programmes, both sexes (number);UIS.E.5.B;0.6666666666666667
-Enrolment in tertiary education, ISCED 5 programmes, female (number);UIS.E.5.B.F;0.6666666666666667
-Enrolment in tertiary education, ISCED 8 programmes, both sexes (number);UIS.E.8;0.9333333333333333
-Enrolment in tertiary education, ISCED 8 programmes, female (number);UIS.E.8.F;0.9333333333333333
-Enrolment in upper secondary education, both sexes (number);UIS.E.3;0.7333333333333334
-Enrolment in upper secondary education, female (number);UIS.E.3.F;0.7333333333333334
-Enrolment in upper secondary education, private institutions, both sexes (number);UIS.E.3.PR;0.8
-Enrolment in upper secondary education, public institutions, both sexes (number);UIS.E.3.PU;0.8
-Enrolment in upper secondary general, both sexes (number);UIS.E.3.GPV;0.9333333333333333
-Enrolment in upper secondary general, female (number);UIS.E.3.GPV.F;0.9333333333333333
-Enrolment in upper secondary vocational, both sexes (number);UIS.E.3.V;0.7333333333333334
-Enrolment in upper secondary vocational, female (number);UIS.E.3.V.F;0.7333333333333334
-Expenditure on education as % of total government expenditure (%);SE.XPD.TOTL.GB.ZS;0.9333333333333333
-Expenditure on primary as % of government expenditure on education (%);SE.XPD.PRIM.ZS;0.9333333333333333
-Expenditure on secondary as % of government expenditure on education (%);SE.XPD.SECO.ZS;0.9333333333333333
-Expenditure on tertiary as % of government expenditure on education (%);SE.XPD.TERT.ZS;0.9333333333333333
-GDP at market prices (constant 2005 US$);NY.GDP.MKTP.KD;1.0
-GDP at market prices (current US$);NY.GDP.MKTP.CD;1.0
-GDP per capita (constant 2005 US$);NY.GDP.PCAP.KD;1.0
-GDP per capita (current US$);NY.GDP.PCAP.CD;1.0
-GDP per capita, PPP (constant 2011 international $);NY.GDP.PCAP.PP.KD;1.0
-GDP per capita, PPP (current international $);NY.GDP.PCAP.PP.CD;1.0
-GDP, PPP (constant 2011 international $);NY.GDP.MKTP.PP.KD;1.0
-GDP, PPP (current international $);NY.GDP.MKTP.PP.CD;1.0
-GNI (current US$);NY.GNP.MKTP.CD;1.0
-GNI per capita, Atlas method (current US$);NY.GNP.PCAP.CD;1.0
-GNI per capita, PPP (current international $);NY.GNP.PCAP.PP.CD;1.0
-GNI, PPP (current international $);NY.GNP.MKTP.PP.CD;1.0
-Government expenditure on education as % of GDP (%);SE.XPD.TOTL.GD.ZS;0.9333333333333333
-Government expenditure per primary student as % of GDP per capita (%);SE.XPD.PRIM.PC.ZS;0.8666666666666667
-Government expenditure per secondary student as % of GDP per capita (%);SE.XPD.SECO.PC.ZS;0.6666666666666667
-Government expenditure per tertiary student as % of GDP per capita (%);SE.XPD.TERT.PC.ZS;0.8666666666666667
-Gross enrolment ratio, lower secondary, both sexes (%);SE.SEC.ENRR.LO;0.8
-Gross enrolment ratio, lower secondary, female (%);SE.SEC.ENRR.LO.FE;0.8
-Gross enrolment ratio, lower secondary, gender parity index (GPI);UIS.GER.2.GPI;0.8
-Gross enrolment ratio, lower secondary, male (%);SE.SEC.ENRR.LO.MA;0.8
-Gross enrolment ratio, primary and lower secondary, both sexes (%);UIS.GER.12;0.8
-Gross enrolment ratio, primary and lower secondary, female (%);UIS.GER.12.F;0.8
-Gross enrolment ratio, primary and lower secondary, gender parity index (GPI);UIS.GER.12.GPI;0.8
-Gross enrolment ratio, primary and lower secondary, male (%);UIS.GER.12.M;0.8
-Gross enrolment ratio, primary and secondary, both sexes (%);UIS.GER.123;0.6666666666666667
-Gross enrolment ratio, primary and secondary, female (%);UIS.GER.123.F;0.6666666666666667
-Gross enrolment ratio, primary and secondary, gender parity index (GPI);SE.ENR.PRSC.FM.ZS;0.6666666666666667
-Gross enrolment ratio, primary and secondary, male (%);UIS.GER.123.M;0.6666666666666667
-Gross enrolment ratio, primary to tertiary, both sexes (%);SE.TOT.ENRR;0.6666666666666667
-Gross enrolment ratio, primary to tertiary, female (%);UIS.GER.1T6.F;0.6666666666666667
-Gross enrolment ratio, primary to tertiary, gender parity index (GPI);UIS.GER.1T6.GPI;0.6666666666666667
-Gross enrolment ratio, primary to tertiary, male (%);UIS.GER.1T6.M;0.6666666666666667
-Gross enrolment ratio, primary, both sexes (%);SE.PRM.ENRR;0.8
-Gross enrolment ratio, primary, female (%);SE.PRM.ENRR.FE;0.8
-Gross enrolment ratio, primary, gender parity index (GPI);SE.ENR.PRIM.FM.ZS;0.8
-Gross enrolment ratio, primary, male (%);SE.PRM.ENRR.MA;0.8
-Gross enrolment ratio, secondary, both sexes (%);SE.SEC.ENRR;0.6666666666666667
-Gross enrolment ratio, secondary, female (%);SE.SEC.ENRR.FE;0.6666666666666667
-Gross enrolment ratio, secondary, gender parity index (GPI);SE.ENR.SECO.FM.ZS;0.6666666666666667
-Gross enrolment ratio, secondary, male (%);SE.SEC.ENRR.MA;0.6666666666666667
-Gross enrolment ratio, tertiary, both sexes (%);SE.TER.ENRR;0.8
-Gross enrolment ratio, tertiary, female (%);SE.TER.ENRR.FE;0.8
-Gross enrolment ratio, tertiary, gender parity index (GPI);SE.ENR.TERT.FM.ZS;0.8
-Gross enrolment ratio, tertiary, male (%);SE.TER.ENRR.MA;0.8
-Gross enrolment ratio, upper secondary, both sexes (%);SE.SEC.ENRR.UP;0.6666666666666667
-Gross enrolment ratio, upper secondary, female (%);SE.SEC.ENRR.UP.FE;0.6666666666666667
-Gross enrolment ratio, upper secondary, gender parity index (GPI);UIS.GER.3.GPI;0.6666666666666667
-Gross enrolment ratio, upper secondary, male (%);SE.SEC.ENRR.UP.MA;0.6666666666666667
-Illiterate population, 25-64 years, % female;UIS.ILLPOPF.AG25T64;0.6666666666666667
-Illiterate population, 25-64 years, both sexes (number);UIS.ILLPOP.AG25T64;0.6666666666666667
-Illiterate population, 25-64 years, female (number);UIS.ILLPOP.AG25T64.F;0.6666666666666667
-Illiterate population, 25-64 years, male (number);UIS.ILLPOP.AG25T64.M;0.6666666666666667
-Internet users (per 100 people);IT.NET.USER.P2;1.0
-Labor force, female (% of total labor force);SL.TLF.TOTL.FE.ZS;1.0
-Labor force, total;SL.TLF.TOTL.IN;1.0
-Literacy rate, population 25-64 years, both sexes (%);UIS.LR.AG25T64;0.6666666666666667
-Literacy rate, population 25-64 years, female (%);UIS.LR.AG25T64.F;0.6666666666666667
-Literacy rate, population 25-64 years, gender parity index (GPI);UIS.LR.AG25T64.GPI;0.6666666666666667
-Literacy rate, population 25-64 years, male (%);UIS.LR.AG25T64.M;0.6666666666666667
-Mortality rate, under-5 (per 1,000);SH.DYN.MORT;1.0
-Net enrolment rate, primary, both sexes (%);SE.PRM.NENR;0.8
-Official entrance age to compulsory education (years);UIS.CEAGE.1;1.0
-Official entrance age to lower secondary education (years);SE.SEC.AGES;1.0
-Official entrance age to pre-primary education (years);UIS.THAGE.0;1.0
-Official entrance age to primary education (years);SE.PRM.AGES;1.0
-Official entrance age to upper secondary education (years);UIS.THAGE.3.A.GPV;1.0
-Outbound mobility ratio, all regions, both sexes (%);UIS.OMR.56;0.9333333333333333
-Out-of-school children of primary school age in pre-primary education, both sexes (number);UIS.OFSPPT.1;0.8666666666666667
-Out-of-school children of primary school age in pre-primary education, female (number);UIS.OFSPPT.1.F;0.8
-Out-of-school children of primary school age in pre-primary education, male (number);UIS.OFSPPT.1.M;0.8
-Out-of-school children of primary school age, both sexes (number);SE.PRM.UNER;0.8
-Out-of-school youth of upper secondary school age, both sexes (number);UIS.OFST.3.CP;0.6666666666666667
-Percentage of all students in tertiary education enrolled in ISCED 5, both sexes (%);UIS.TEP.5.B;0.6666666666666667
-Percentage of all students in tertiary education enrolled in ISCED 8, both sexes (%);UIS.TEP.8;0.9333333333333333
-Percentage of enrolment in lower secondary education in private institutions (%);UIS.PRP.2;0.9333333333333333
-Percentage of enrolment in primary education in private institutions (%);SE.PRM.PRIV.ZS;0.9333333333333333
-Percentage of enrolment in secondary education in private institutions (%);SE.SEC.PRIV.ZS;0.7333333333333334
-Percentage of enrolment in upper secondary education in private institutions (%);UIS.PRP.3;0.7333333333333334
-Percentage of female students enrolled in primary education who are over-age, female (%);UIS.OAEP.1.F;0.6
-Percentage of female students enrolled in primary education who are under-age, female (%);UIS.UAEP.1.F;0.6
-Percentage of female students in lower secondary education enrolled in general programmes, female (%);UIS.GTVP.2.GPV.F;0.9333333333333333
-Percentage of female students in secondary education enrolled in general programmes, female (%);UIS.GTVP.23.GPV.F;0.7333333333333334
-Percentage of female students in secondary education enrolled in vocational programmes, female (%);SE.SEC.ENRL.FE.VO.ZS;0.7333333333333334
-Percentage of female students in tertiary education enrolled in ISCED 5;UIS.TEP.5.B.F;0.6666666666666667
-Percentage of female students in tertiary education enrolled in ISCED 8;UIS.TEP.8.F;0.9333333333333333
-Percentage of female students in upper secondary education enrolled in general programmes, female (%);UIS.GTVP.3.GPV.F;0.7333333333333334
-Percentage of female students in upper secondary education enrolled in vocational programmes, female (%);UIS.GTVP.3.V.F;0.7333333333333334
-Percentage of male students enrolled in primary education who are over-age, male (%);UIS.OAEP.1.M;0.6
-Percentage of male students enrolled in primary education who are under-age, male (%);UIS.UAEP.1.M;0.6
-Percentage of male students in lower secondary education enrolled in general programmes, male (%);UIS.GTVP.2.GPV.M;0.9333333333333333
-Percentage of male students in secondary education enrolled in general programmes, male (%);UIS.GTVP.23.GPV.M;0.7333333333333334
-Percentage of male students in secondary education enrolled in vocational programmes, male (%);SE.SEC.ENRL.MA.VO.ZS;0.7333333333333334
-Percentage of male students in tertiary education enrolled in ISCED 5;UIS.TEP.5.B.M;0.6666666666666667
-Percentage of male students in tertiary education enrolled in ISCED 8;UIS.TEP.8.M;0.9333333333333333
-Percentage of male students in upper secondary education enrolled in general programmes, male (%);UIS.GTVP.3.GPV.M;0.7333333333333334
-Percentage of male students in upper secondary education enrolled in vocational programmes, male (%);UIS.GTVP.3.V.M;0.7333333333333334
-Percentage of students enrolled in primary education who are over-age, both sexes (%);UIS.OAEP.1;0.9333333333333333
-Percentage of students enrolled in primary education who are under-age, both sexes (%);UIS.UAEP.1;0.9333333333333333
-Percentage of students in lower secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.2.GPV;0.9333333333333333
-Percentage of students in lower secondary education who are female (%);UIS.FEP.2;0.9333333333333333
-Percentage of students in lower secondary general education who are female (%);UIS.FEP.2.GPV;0.9333333333333333
-Percentage of students in primary education who are female (%);SE.PRM.ENRL.FE.ZS;0.9333333333333333
-Percentage of students in secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.23.GPV;0.7333333333333334
-Percentage of students in secondary education enrolled in vocational programmes, both sexes (%);SE.SEC.ENRL.VO.ZS;0.7333333333333334
-Percentage of students in secondary education who are female (%);SE.SEC.ENRL.FE.ZS;0.7333333333333334
-Percentage of students in secondary general education who are female (%);SE.SEC.ENRL.GC.FE.ZS;0.9333333333333333
-Percentage of students in secondary vocational education who are female (%);SE.SEC.ENRL.VO.FE.ZS;0.7333333333333334
-Percentage of students in tertiary education who are female (%);SE.TER.ENRL.FE.ZS;0.9333333333333333
-Percentage of students in tertiary ISCED 5 programmes who are female (%);UIS.FEP.5.B;0.6666666666666667
-Percentage of students in tertiary ISCED 8 programmes who are female (%);UIS.FEP.8;0.9333333333333333
-Percentage of students in upper secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.3.GPV;0.7333333333333334
-Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%);UIS.GTVP.3.V;0.7333333333333334
-Percentage of students in upper secondary education who are female (%);UIS.FEP.3;0.7333333333333334
-Percentage of students in upper secondary general education who are female (%);UIS.FEP.3.GPV;0.9333333333333333
-Percentage of students in upper secondary vocational education who are female (%);UIS.FEP.3.V;0.7333333333333334
-Percentage of teachers in lower secondary education who are female (%);UIS.FTP.2;0.9333333333333333
-Percentage of teachers in pre-primary education who are female (%);SE.PRE.TCHR.FE.ZS;0.8666666666666667
-Percentage of teachers in primary education who are female (%);SE.PRM.TCHR.FE.ZS;0.9333333333333333
-Percentage of teachers in secondary education who are female (%);SE.SEC.TCHR.FE.ZS;0.7333333333333334
-Percentage of teachers in tertiary education who are female (%);SE.TER.TCHR.FE.ZS;0.9333333333333333
-Percentage of teachers in upper secondary education who are female (%);UIS.FTP.3;0.7333333333333334
-Population growth (annual %);SP.POP.GROW;1.0
-Population of compulsory school age, both sexes (number);UIS.SAP.CE;0.8666666666666667
-Population of compulsory school age, female (number);UIS.SAP.CE.F;0.8666666666666667
-Population of compulsory school age, male (number);UIS.SAP.CE.M;0.8666666666666667
-Population of the official age for lower secondary education, both sexes (number);SP.SEC.LTOT.IN;0.8
-Population of the official age for lower secondary education, female (number);SP.SEC.LTOT.FE.IN;0.8
-Population of the official age for lower secondary education, male (number);SP.SEC.LTOT.MA.IN;0.8
-Population of the official age for pre-primary education, both sexes (number);SP.PRE.TOTL.IN;0.8
-Population of the official age for pre-primary education, female (number);SP.PRE.TOTL.FE.IN;0.8
-Population of the official age for pre-primary education, male (number);SP.PRE.TOTL.MA.IN;0.8
-Population of the official age for primary education, both sexes (number);SP.PRM.TOTL.IN;0.8
-Population of the official age for primary education, female (number);SP.PRM.TOTL.FE.IN;0.8
-Population of the official age for primary education, male (number);SP.PRM.TOTL.MA.IN;0.8
-Population of the official age for secondary education, both sexes (number);SP.SEC.TOTL.IN;0.8
-Population of the official age for secondary education, female (number);SP.SEC.TOTL.FE.IN;0.8
-Population of the official age for secondary education, male (number);SP.SEC.TOTL.MA.IN;0.8
-Population of the official age for tertiary education, both sexes (number);SP.TER.TOTL.IN;0.8
-Population of the official age for tertiary education, female (number);SP.TER.TOTL.FE.IN;0.8
-Population of the official age for tertiary education, male (number);SP.TER.TOTL.MA.IN;0.8
-Population of the official age for the last grade of primary education, both sexes (number);SP.PRM.GRAD.TO;0.8
-Population of the official age for the last grade of primary education, female (number);SP.PRM.GRAD.FE;0.8
-Population of the official age for the last grade of primary education, male (number);SP.PRM.GRAD.MA;0.8
-Population of the official age for upper secondary education, both sexes (number);SP.SEC.UTOT.IN;0.8
-Population of the official age for upper secondary education, female (number);SP.SEC.UTOT.FE.IN;0.8
-Population of the official age for upper secondary education, male (number);SP.SEC.UTOT.MA.IN;0.8
-Population of the official entrance age to primary education, both sexes (number);UIS.SAP.1.G1;0.8666666666666667
-Population of the official entrance age to primary education, female (number);UIS.SAP.1.G1.F;0.8666666666666667
-Population of the official entrance age to primary education, male (number);UIS.SAP.1.G1.M;0.8666666666666667
-Population of the official entrance age to secondary general education, both sexes (number);UIS.SAP.23.GPV.G1;0.8666666666666667
-Population of the official entrance age to secondary general education, female (number);UIS.SAP.23.GPV.G1.F;0.8666666666666667
-Population of the official entrance age to secondary general education, male (number);UIS.SAP.23.GPV.G1.M;0.8666666666666667
-Population, age 0, female;SP.POP.AG00.FE.UN;1.0
-Population, age 0, male;SP.POP.AG00.MA.UN;1.0
-Population, age 0, total;SP.POP.AG00.TO.UN;1.0
-Population, age 1, female;SP.POP.AG01.FE.UN;1.0
-Population, age 1, male;SP.POP.AG01.MA.UN;1.0
-Population, age 1, total;SP.POP.AG01.TO.UN;1.0
-Population, age 10, female;SP.POP.AG10.FE.UN;1.0
-Population, age 10, male;SP.POP.AG10.MA.UN;1.0
-Population, age 10, total;SP.POP.AG10.TO.UN;1.0
-Population, age 11, female;SP.POP.AG11.FE.UN;1.0
-Population, age 11, male;SP.POP.AG11.MA.UN;1.0
-Population, age 11, total;SP.POP.AG11.TO.UN;1.0
-Population, age 12, female;SP.POP.AG12.FE.UN;1.0
-Population, age 12, male;SP.POP.AG12.MA.UN;1.0
-Population, age 12, total;SP.POP.AG12.TO.UN;1.0
-Population, age 13, female;SP.POP.AG13.FE.UN;1.0
-Population, age 13, male;SP.POP.AG13.MA.UN;1.0
-Population, age 13, total;SP.POP.AG13.TO.UN;1.0
-Population, age 14, female;SP.POP.AG14.FE.UN;1.0
-Population, age 14, male;SP.POP.AG14.MA.UN;1.0
-Population, age 14, total;SP.POP.AG14.TO.UN;1.0
-Population, age 15, female;SP.POP.AG15.FE.UN;1.0
-Population, age 15, male;SP.POP.AG15.MA.UN;1.0
-Population, age 15, total;SP.POP.AG15.TO.UN;1.0
-Population, age 16, female;SP.POP.AG16.FE.UN;1.0
-Population, age 16, male;SP.POP.AG16.MA.UN;1.0
-Population, age 16, total;SP.POP.AG16.TO.UN;1.0
-Population, age 17, female;SP.POP.AG17.FE.UN;1.0
-Population, age 17, male;SP.POP.AG17.MA.UN;1.0
-Population, age 17, total;SP.POP.AG17.TO.UN;1.0
-Population, age 18, female;SP.POP.AG18.FE.UN;1.0
-Population, age 18, male;SP.POP.AG18.MA.UN;1.0
-Population, age 18, total;SP.POP.AG18.TO.UN;1.0
-Population, age 19, female;SP.POP.AG19.FE.UN;1.0
-Population, age 19, male;SP.POP.AG19.MA.UN;1.0
-Population, age 19, total;SP.POP.AG19.TO.UN;1.0
-Population, age 2, female;SP.POP.AG02.FE.UN;1.0
-Population, age 2, male;SP.POP.AG02.MA.UN;1.0
-Population, age 2, total;SP.POP.AG02.TO.UN;1.0
-Population, age 20, female;SP.POP.AG20.FE.UN;1.0
-Population, age 20, male;SP.POP.AG20.MA.UN;1.0
-Population, age 20, total;SP.POP.AG20.TO.UN;1.0
-Population, age 21, female;SP.POP.AG21.FE.UN;1.0
-Population, age 21, male;SP.POP.AG21.MA.UN;1.0
-Population, age 21, total;SP.POP.AG21.TO.UN;1.0
-Population, age 22, female;SP.POP.AG22.FE.UN;1.0
-Population, age 22, male;SP.POP.AG22.MA.UN;1.0
-Population, age 22, total;SP.POP.AG22.TO.UN;1.0
-Population, age 23, female;SP.POP.AG23.FE.UN;1.0
-Population, age 23, male;SP.POP.AG23.MA.UN;1.0
-Population, age 23, total;SP.POP.AG23.TO.UN;1.0
-Population, age 24, female;SP.POP.AG24.FE.UN;1.0
-Population, age 24, male;SP.POP.AG24.MA.UN;1.0
-Population, age 24, total;SP.POP.AG24.TO.UN;1.0
-Population, age 25, female;SP.POP.AG25.FE.UN;1.0
-Population, age 25, male;SP.POP.AG25.MA.UN;1.0
-Population, age 25, total;SP.POP.AG25.TO.UN;1.0
-Population, age 3, female;SP.POP.AG03.FE.UN;1.0
-Population, age 3, male;SP.POP.AG03.MA.UN;1.0
-Population, age 3, total;SP.POP.AG03.TO.UN;1.0
-Population, age 4, female;SP.POP.AG04.FE.UN;1.0
-Population, age 4, male;SP.POP.AG04.MA.UN;1.0
-Population, age 4, total;SP.POP.AG04.TO.UN;1.0
-Population, age 5, female;SP.POP.AG05.FE.UN;1.0
-Population, age 5, male;SP.POP.AG05.MA.UN;1.0
-Population, age 5, total;SP.POP.AG05.TO.UN;1.0
-Population, age 6, female;SP.POP.AG06.FE.UN;1.0
-Population, age 6, male;SP.POP.AG06.MA.UN;1.0
-Population, age 6, total;SP.POP.AG06.TO.UN;1.0
-Population, age 7, female;SP.POP.AG07.FE.UN;1.0
-Population, age 7, male;SP.POP.AG07.MA.UN;1.0
-Population, age 7, total;SP.POP.AG07.TO.UN;1.0
-Population, age 8, female;SP.POP.AG08.FE.UN;1.0
-Population, age 8, male;SP.POP.AG08.MA.UN;1.0
-Population, age 8, total;SP.POP.AG08.TO.UN;1.0
-Population, age 9, female;SP.POP.AG09.FE.UN;1.0
-Population, age 9, male;SP.POP.AG09.MA.UN;1.0
-Population, age 9, total;SP.POP.AG09.TO.UN;1.0
-Population, ages 0-14 (% of total);SP.POP.0014.TO.ZS;1.0
-Population, ages 0-14, female;SP.POP.0014.FE.IN;1.0
-Population, ages 0-14, male;SP.POP.0014.MA.IN;1.0
-Population, ages 0-14, total;SP.POP.0014.TO;1.0
-Population, ages 10-14, female;SP.POP.1014.FE.UN;1.0
-Population, ages 10-14, male;SP.POP.1014.MA.UN;1.0
-Population, ages 10-14, total;SP.POP.1014.TO.UN;1.0
-Population, ages 10-15, female;SP.POP.1015.FE.UN;1.0
-Population, ages 10-15, male;SP.POP.1015.MA.UN;1.0
-Population, ages 10-15, total;SP.POP.1015.TO.UN;1.0
-Population, ages 10-16, female;SP.POP.1016.FE.UN;1.0
-Population, ages 10-16, male;SP.POP.1016.MA.UN;1.0
-Population, ages 10-16, total;SP.POP.1016.TO.UN;1.0
-Population, ages 10-17, female;SP.POP.1017.FE.UN;1.0
-Population, ages 10-17, male;SP.POP.1017.MA.UN;1.0
-Population, ages 10-17, total;SP.POP.1017.TO.UN;1.0
-Population, ages 10-18, female;SP.POP.1018.FE.UN;1.0
-Population, ages 10-18, male;SP.POP.1018.MA.UN;1.0
-Population, ages 10-18, total;SP.POP.1018.TO.UN;1.0
-Population, ages 11-15, female;SP.POP.1115.FE.UN;1.0
-Population, ages 11-15, male;SP.POP.1115.MA.UN;1.0
-Population, ages 11-15, total;SP.POP.1115.TO.UN;1.0
-Population, ages 11-16, female;SP.POP.1116.FE.UN;1.0
-Population, ages 11-16, male;SP.POP.1116.MA.UN;1.0
-Population, ages 11-16, total;SP.POP.1116.TO.UN;1.0
-Population, ages 11-17, female;SP.POP.1117.FE.UN;1.0
-Population, ages 11-17, male;SP.POP.1117.MA.UN;1.0
-Population, ages 11-17, total;SP.POP.1117.TO.UN;1.0
-Population, ages 11-18, female;SP.POP.1118.FE.UN;1.0
-Population, ages 11-18, male;SP.POP.1118.MA.UN;1.0
-Population, ages 11-18, total;SP.POP.1118.TO.UN;1.0
-Population, ages 12-15, female;SP.POP.1215.FE.UN;1.0
-Population, ages 12-15, male;SP.POP.1215.MA.UN;1.0
-Population, ages 12-15, total;SP.POP.1215.TO.UN;1.0
-Population, ages 12-16, female;SP.POP.1216.FE.UN;1.0
-Population, ages 12-16, male;SP.POP.1216.MA.UN;1.0
-Population, ages 12-16, total;SP.POP.1216.TO.UN;1.0
-Population, ages 12-17, female;SP.POP.1217.FE.UN;1.0
-Population, ages 12-17, male;SP.POP.1217.MA.UN;1.0
-Population, ages 12-17, total;SP.POP.1217.TO.UN;1.0
-Population, ages 12-18, female;SP.POP.1218.FE.UN;1.0
-Population, ages 12-18, male;SP.POP.1218.MA.UN;1.0
-Population, ages 12-18, total;SP.POP.1218.TO.UN;1.0
-Population, ages 13-16, female;SP.POP.1316.FE.UN;1.0
-Population, ages 13-16, male;SP.POP.1316.MA.UN;1.0
-Population, ages 13-16, total;SP.POP.1316.TO.UN;1.0
-Population, ages 13-17, female;SP.POP.1317.FE.UN;1.0
-Population, ages 13-17, male;SP.POP.1317.MA.UN;1.0
-Population, ages 13-17, total;SP.POP.1317.TO.UN;1.0
-Population, ages 13-18, female;SP.POP.1318.FE.UN;1.0
-Population, ages 13-18, male;SP.POP.1318.MA.UN;1.0
-Population, ages 13-18, total;SP.POP.1318.TO.UN;1.0
-Population, ages 13-19, female;SP.POP.1319.FE.UN;1.0
-Population, ages 13-19, male;SP.POP.1319.MA.UN;1.0
-Population, ages 13-19, total;SP.POP.1319.TO.UN;1.0
-Population, ages 14-18, female;SP.POP.1418.FE.UN;1.0
-Population, ages 14-18, male;SP.POP.1418.MA.UN;1.0
-Population, ages 14-18, total;SP.POP.1418.TO.UN;1.0
-Population, ages 14-19, female;SP.POP.1419.FE.UN;1.0
-Population, ages 14-19, male;SP.POP.1419.MA.UN;1.0
-Population, ages 14-19, total;SP.POP.1419.TO.UN;1.0
-Population, ages 15-24, female;SP.POP.1524.FE.UN;1.0
-Population, ages 15-24, male;SP.POP.1524.MA.UN;1.0
-Population, ages 15-24, total;SP.POP.1524.TO.UN;1.0
-Population, ages 15-64 (% of total);SP.POP.1564.TO.ZS;1.0
-Population, ages 15-64, female;SP.POP.1564.FE.IN;1.0
-Population, ages 15-64, male;SP.POP.1564.MA.IN;1.0
-Population, ages 15-64, total;SP.POP.1564.TO;1.0
-Population, ages 3-5, female;SP.POP.0305.FE.UN;1.0
-Population, ages 3-5, male;SP.POP.0305.MA.UN;1.0
-Population, ages 3-5, total;SP.POP.0305.TO.UN;1.0
-Population, ages 4-6, female;SP.POP.0406.FE.UN;1.0
-Population, ages 4-6, male;SP.POP.0406.MA.UN;1.0
-Population, ages 4-6, total;SP.POP.0406.TO.UN;1.0
-Population, ages 5-10, female;SP.POP.0510.FE.UN;1.0
-Population, ages 5-10, male;SP.POP.0510.MA.UN;1.0
-Population, ages 5-10, total;SP.POP.0510.TO.UN;1.0
-Population, ages 5-11, female;SP.POP.0511.FE.UN;1.0
-Population, ages 5-11, male;SP.POP.0511.MA.UN;1.0
-Population, ages 5-11, total;SP.POP.0511.TO.UN;1.0
-Population, ages 5-9, female;SP.POP.0509.FE.UN;1.0
-Population, ages 5-9, male;SP.POP.0509.MA.UN;1.0
-Population, ages 5-9, total;SP.POP.0509.TO.UN;1.0
-Population, ages 6-10, female;SP.POP.0610.FE.UN;1.0
-Population, ages 6-10, male;SP.POP.0610.MA.UN;1.0
-Population, ages 6-10, total;SP.POP.0610.TO.UN;1.0
-Population, ages 6-11, female;SP.POP.0611.FE.UN;1.0
-Population, ages 6-11, male;SP.POP.0611.MA.UN;1.0
-Population, ages 6-11, total;SP.POP.0611.TO.UN;1.0
-Population, ages 6-12, female;SP.POP.0612.FE.UN;1.0
-Population, ages 6-12, male;SP.POP.0612.MA.UN;1.0
-Population, ages 6-12, total;SP.POP.0612.TO.UN;1.0
-Population, ages 6-9, female;SP.POP.0609.FE.UN;1.0
-Population, ages 6-9, male;SP.POP.0609.MA.UN;1.0
-Population, ages 6-9, total;SP.POP.0609.TO.UN;1.0
-Population, ages 7-10, female;SP.POP.0710.FE.UN;1.0
-Population, ages 7-10, male;SP.POP.0710.MA.UN;1.0
-Population, ages 7-10, total;SP.POP.0710.TO.UN;1.0
-Population, ages 7-11, female;SP.POP.0711.FE.UN;1.0
-Population, ages 7-11, male;SP.POP.0711.MA.UN;1.0
-Population, ages 7-11, total;SP.POP.0711.TO.UN;1.0
-Population, ages 7-12, female;SP.POP.0712.FE.UN;1.0
-Population, ages 7-12, male;SP.POP.0712.MA.UN;1.0
-Population, ages 7-12, total;SP.POP.0712.TO.UN;1.0
-Population, ages 7-13, female;SP.POP.0713.FE.UN;1.0
-Population, ages 7-13, male;SP.POP.0713.MA.UN;1.0
-Population, ages 7-13, total;SP.POP.0713.TO.UN;1.0
-Population, ages 7-9, female;SP.POP.0709.FE.UN;1.0
-Population, ages 7-9, male;SP.POP.0709.MA.UN;1.0
-Population, ages 7-9, total;SP.POP.0709.TO.UN;1.0
-Population, female;SP.POP.TOTL.FE.IN;1.0
-Population, female (% of total);SP.POP.TOTL.FE.ZS;1.0
-Population, male;SP.POP.TOTL.MA.IN;1.0
-Population, male (% of total);SP.POP.TOTL.MA.ZS;1.0
-Population, total;SP.POP.TOTL;1.0
-Prevalence of HIV, total (% of population ages 15-49);SH.DYN.AIDS.ZS;1.0
-Pupil-teacher ratio in lower secondary education (headcount basis);UIS.PTRHC.2;0.9333333333333333
-Pupil-teacher ratio in primary education (headcount basis);SE.PRM.ENRL.TC.ZS;0.9333333333333333
-Pupil-teacher ratio in secondary education (headcount basis);SE.SEC.ENRL.TC.ZS;0.7333333333333334
-Pupil-teacher ratio in tertiary education (headcount basis);UIS.PTRHC.56;0.9333333333333333
-Pupil-teacher ratio in upper secondary education (headcount basis);UIS.PTRHC.3;0.7333333333333334
-Rate of out-of-school children of primary school age in pre-primary education, both sexes (%);UIS.ROFSPPT.1;0.7333333333333334
-Rate of out-of-school children of primary school age in pre-primary education, female (%);UIS.ROFSPPT.1.F;0.6666666666666667
-Rate of out-of-school children of primary school age in pre-primary education, male (%);UIS.ROFSPPT.1.M;0.6666666666666667
-Rate of out-of-school children of primary school age, both sexes (%);UIS.ROFST.1;0.8
-Rate of out-of-school youth of upper secondary school age, both sexes (%);UIS.ROFST.3.CP;0.6666666666666667
-School life expectancy, primary and lower secondary, both sexes (years);UIS.SLE.12;0.8
-School life expectancy, primary and lower secondary, female (years);UIS.SLE.12.F;0.8
-School life expectancy, primary and lower secondary, male (years);UIS.SLE.12.M;0.8
-School life expectancy, primary and secondary, both sexes (years);UIS.SLE.123;0.6666666666666667
-School life expectancy, primary and secondary, female (years);UIS.SLE.123.F;0.6666666666666667
-School life expectancy, primary and secondary, gender parity index (GPI);UIS.SLE.123.GPI;0.6666666666666667
-School life expectancy, primary and secondary, male (years);UIS.SLE.123.M;0.6666666666666667
-School life expectancy, primary to tertiary, both sexes (years);SE.SCH.LIFE;0.6666666666666667
-School life expectancy, primary to tertiary, female (years);SE.SCH.LIFE.FE;0.6666666666666667
-School life expectancy, primary to tertiary, gender parity index (GPI);UIS.SLE.1T6.GPI;0.6666666666666667
-School life expectancy, primary to tertiary, male (years);SE.SCH.LIFE.MA;0.6666666666666667
-School life expectancy, primary, both sexes (years);UIS.SLE.1;0.8
-School life expectancy, primary, female (years);UIS.SLE.1.F;0.8
-School life expectancy, primary, gender parity index (GPI);UIS.SLE.1.GPI;0.8
-School life expectancy, primary, male (years);UIS.SLE.1.M;0.8
-School life expectancy, secondary, both sexes (years);UIS.SLE.23;0.6666666666666667
-School life expectancy, secondary, female (years);UIS.SLE.23.F;0.6666666666666667
-School life expectancy, secondary, gender parity index (GPI);UIS.SLE.23.GPI;0.6666666666666667
-School life expectancy, secondary, male (years);UIS.SLE.23.M;0.6666666666666667
-School life expectancy, tertiary, both sexes (years);UIS.SLE.56;0.8
-School life expectancy, tertiary, female (years);UIS.SLE.56.F;0.8
-School life expectancy, tertiary, gender parity index (GPI);UIS.SLE.56.GPI;0.8
-School life expectancy, tertiary, male (years);UIS.SLE.56.M;0.8
-Teachers in lower secondary education, both sexes (number);UIS.T.2;0.9333333333333333
-Teachers in lower secondary education, female (number);UIS.T.2.F;0.9333333333333333
-Teachers in pre-primary education, both sexes (number);SE.PRE.TCHR;0.8666666666666667
-Teachers in pre-primary education, female (number);SE.PRE.TCHR.FE;0.8666666666666667
-Teachers in primary education, both sexes (number);SE.PRM.TCHR;0.9333333333333333
-Teachers in primary education, female (number);SE.PRM.TCHR.FE;0.9333333333333333
-Teachers in secondary education, both sexes (number);SE.SEC.TCHR;0.7333333333333334
-Teachers in secondary education, female (number);SE.SEC.TCHR.FE;0.7333333333333334
-Teachers in tertiary education programmes, both sexes (number);SE.TER.TCHR;0.9333333333333333
-Teachers in tertiary education programmes, female (number);SE.TER.TCHR.FE;0.9333333333333333
-Teachers in upper secondary education, both sexes (number);UIS.T.3;0.7333333333333334
-Teachers in upper secondary education, female (number);UIS.T.3.F;0.7333333333333334
-Theoretical duration of lower secondary education (years);SE.SEC.DURS.LO;1.0
-Theoretical duration of pre-primary education (years);UIS.THDUR.0;1.0
-Theoretical duration of primary education (years);SE.PRM.DURS;1.0
-Theoretical duration of secondary education (years);SE.SEC.DURS;1.0
-Theoretical duration of upper secondary education (years);SE.SEC.DURS.UP;1.0
-Total net enrolment rate, primary, both sexes (%);UIS.NERT.1;0.8
-Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (number);UIS.OE.56.40510;1.0
-UIS: Percentage of population age 25+ with a completed bachelor's or equivalent degree (ISCED 6). Female;UIS.EA.6.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with a completed bachelor's or equivalent degree (ISCED 6). Male;UIS.EA.6.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with a completed bachelor's or equivalent degree (ISCED 6). Total;UIS.EA.6.AG25T99;0.6
-UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Female;UIS.EA.5T8.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Gender Parity Index;UIS.EA.5T8.AG25T99.GPI;0.6
-UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Male;UIS.EA.5T8.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Total;UIS.EA.5T8.AG25T99;0.6
-UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Female;UIS.EA.2T6.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Gender Parity Index;UIS.EA.2T6.AG25T99.GPI;0.6
-UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Male;UIS.EA.2T6.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Total;UIS.EA.2T6.AG25T99;0.6
-UIS: Percentage of population age 25+ with at least completed primary education (ISCED 1 or higher). Female;UIS.EA.1T6.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with at least completed primary education (ISCED 1 or higher). Male;UIS.EA.1T6.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with at least completed primary education (ISCED 1 or higher). Total;UIS.EA.1T6.AG25T99;0.6
-UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Female;UIS.EA.3T6.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Gender Parity Index;UIS.EA.3T6.AG25T99.GPI;0.6
-UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Male;UIS.EA.3T6.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Total;UIS.EA.3T6.AG25T99;0.6
-UIS: Percentage of population age 25+ with completed lower secondary education. Female;UIS.EA.2.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with completed lower secondary education. Male;UIS.EA.2.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with completed lower secondary education. Total;UIS.EA.2.AG25T99;0.6
-UIS: Percentage of population age 25+ with completed primary education. Female;UIS.EA.1.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with completed primary education. Male;UIS.EA.1.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with completed primary education. Total;UIS.EA.1.AG25T99;0.6
-UIS: Percentage of population age 25+ with completed upper secondary education. Female;UIS.EA.3.AG25T99.F;0.6
-UIS: Percentage of population age 25+ with completed upper secondary education. Male;UIS.EA.3.AG25T99.M;0.6
-UIS: Percentage of population age 25+ with completed upper secondary education. Total;UIS.EA.3.AG25T99;0.6
-Under-age enrolment ratio in primary education, both sexes (%);UIS.UAPP.1;0.8
-Under-age enrolment ratio in secondary education, both sexes (%);UIS.UAPP.23;0.6666666666666667
-Under-age enrolment ratio in secondary education, female (%);UIS.UAPP.23.F;0.6666666666666667
-Under-age enrolment ratio in secondary education, male (%);UIS.UAPP.23.M;0.6666666666666667
-Unemployment, female (% of female labor force);SL.UEM.TOTL.FE.ZS;1.0
-Unemployment, male (% of male labor force);SL.UEM.TOTL.MA.ZS;1.0
-Unemployment, total (% of total labor force);SL.UEM.TOTL.ZS;1.0
-Youth illiterate population, 15-24 years, % female;UIS.LPP.AG15T24;0.6666666666666667
-Youth illiterate population, 15-24 years, both sexes (number);UIS.LP.AG15T24;0.6666666666666667
-Youth illiterate population, 15-24 years, female (number);UIS.LP.AG15T24.F;0.6666666666666667
-Youth illiterate population, 15-24 years, male (number);UIS.LP.AG15T24.M;0.6666666666666667
-Youth literacy rate, population 15-24 years, both sexes (%);SE.ADT.1524.LT.ZS;0.6666666666666667
-Youth literacy rate, population 15-24 years, female (%);SE.ADT.1524.LT.FE.ZS;0.6666666666666667
-Youth literacy rate, population 15-24 years, gender parity index (GPI);SE.ADT.1524.LT.FM.ZS;0.6666666666666667
-Youth literacy rate, population 15-24 years, male (%);SE.ADT.1524.LT.MA.ZS;0.6666666666666667
+Indicador
+"Adjusted net enrolment rate, primary, both sexes (%)"
+"Adjusted net intake rate to Grade 1 of primary education, both sexes (%)"
+"Adult illiterate population, 15+ years, both sexes (number)"
+"Adult illiterate population, 15+ years, female (number)"
+"Adult illiterate population, 15+ years, male (number)"
+All staff compensation as % of total expenditure in lower secondary public institutions (%)
+All staff compensation as % of total expenditure in pre-primary public institutions (%)
+All staff compensation as % of total expenditure in primary public institutions (%)
+All staff compensation as % of total expenditure in public institutions (%)
+All staff compensation as % of total expenditure in secondary public institutions (%)
+All staff compensation as % of total expenditure in tertiary public institutions (%)
+All staff compensation as % of total expenditure in upper secondary public institutions (%)
+Annual statutory teacher salaries in public institutions in USD. Lower Secondary. 15 years of experience
+Annual statutory teacher salaries in public institutions in USD. Lower Secondary. Starting salary
+Annual statutory teacher salaries in public institutions in USD. Lower Secondary. Top of scale
+Annual statutory teacher salaries in public institutions in USD. Pre-Primary. Starting salary
+Annual statutory teacher salaries in public institutions in USD. Primary. 15 years of experience
+Annual statutory teacher salaries in public institutions in USD. Primary. Starting salary
+Annual statutory teacher salaries in public institutions in USD. Primary. Top of scale
+Annual statutory teacher salaries in public institutions in USD. Upper Secondary. 15 years of experience
+Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Starting salary
+Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Top of scale
+"Barro-Lee: Population in thousands, age 15+, female"
+"Barro-Lee: Population in thousands, age 15+, total"
+"Barro-Lee: Population in thousands, age 15-19, female"
+"Barro-Lee: Population in thousands, age 15-19, total"
+"Barro-Lee: Population in thousands, age 20-24, female"
+"Barro-Lee: Population in thousands, age 20-24, total"
+"Barro-Lee: Population in thousands, age 25+, female"
+"Barro-Lee: Population in thousands, age 25+, total"
+"Barro-Lee: Population in thousands, age 25-29, female"
+"Barro-Lee: Population in thousands, age 25-29, total"
+"Barro-Lee: Population in thousands, age 30-34, female"
+"Barro-Lee: Population in thousands, age 30-34, total"
+"Barro-Lee: Population in thousands, age 35-39, female"
+"Barro-Lee: Population in thousands, age 35-39, total"
+"Barro-Lee: Population in thousands, age 40-44, female"
+"Barro-Lee: Population in thousands, age 40-44, total"
+"Barro-Lee: Population in thousands, age 45-49, female"
+"Barro-Lee: Population in thousands, age 45-49, total"
+"Barro-Lee: Population in thousands, age 50-54, female"
+"Barro-Lee: Population in thousands, age 50-54, total"
+"Barro-Lee: Population in thousands, age 55-59, female"
+"Barro-Lee: Population in thousands, age 55-59, total"
+"Barro-Lee: Population in thousands, age 60-64, female"
+"Barro-Lee: Population in thousands, age 60-64, total"
+"Barro-Lee: Population in thousands, age 65-69, female"
+"Barro-Lee: Population in thousands, age 65-69, total"
+"Barro-Lee: Population in thousands, age 70-74, female"
+"Barro-Lee: Population in thousands, age 70-74, total"
+"Barro-Lee: Population in thousands, age 75+, female"
+"Barro-Lee: Population in thousands, age 75+, total"
+Current expenditure as % of total expenditure in lower secondary public institutions (%)
+Current expenditure as % of total expenditure in pre-primary public institutions (%)
+Current expenditure as % of total expenditure in primary public institutions (%)
+Current expenditure as % of total expenditure in public institutions (%)
+Current expenditure as % of total expenditure in secondary public institutions (%)
+Current expenditure as % of total expenditure in tertiary public institutions (%)
+Current expenditure as % of total expenditure in upper-secondary public institutions (%)
+"Early school leavers from primary education, both sexes (number)"
+"Elderly illiterate population, 65+ years, both sexes (number)"
+"Elderly illiterate population, 65+ years, female (number)"
+"Elderly illiterate population, 65+ years, male (number)"
+"Enrolment in early childhood education, both sexes (number)"
+"Enrolment in early childhood education, female (number)"
+"Enrolment in early childhood education, private institutions, both sexes (number)"
+"Enrolment in early childhood education, private institutions, female (number)"
+"Enrolment in early childhood education, public institutions, both sexes (number)"
+"Enrolment in early childhood education, public institutions, female (number)"
+"Enrolment in early childhood educational development programmes, both sexes (number)"
+"Enrolment in early childhood educational development programmes, female (number)"
+"Enrolment in early childhood educational development programmes, private institutions, both sexes (number)"
+"Enrolment in early childhood educational development programmes, private institutions, female (number)"
+"Enrolment in early childhood educational development programmes, public institutions, both sexes (number)"
+"Enrolment in early childhood educational development programmes, public institutions, female (number)"
+"Enrolment in Grade 1 of lower secondary general education, both sexes (number)"
+"Enrolment in Grade 1 of lower secondary general education, female (number)"
+"Enrolment in Grade 1 of primary education, both sexes (number)"
+"Enrolment in Grade 1 of primary education, female (number)"
+"Enrolment in Grade 2 of lower secondary general education, both sexes (number)"
+"Enrolment in Grade 2 of lower secondary general education, female (number)"
+"Enrolment in Grade 2 of primary education, both sexes (number)"
+"Enrolment in Grade 2 of primary education, female (number)"
+"Enrolment in Grade 3 of lower secondary general education, both sexes (number)"
+"Enrolment in Grade 3 of lower secondary general education, female (number)"
+"Enrolment in Grade 3 of primary education, both sexes (number)"
+"Enrolment in Grade 3 of primary education, female (number)"
+"Enrolment in Grade 4 of lower secondary general education, both sexes (number)"
+"Enrolment in Grade 4 of lower secondary general education, female (number)"
+"Enrolment in Grade 4 of primary education, both sexes (number)"
+"Enrolment in Grade 4 of primary education, female (number)"
+"Enrolment in Grade 5 of primary education, both sexes (number)"
+"Enrolment in Grade 5 of primary education, female (number)"
+"Enrolment in lower secondary education, both sexes (number)"
+"Enrolment in lower secondary education, female (number)"
+"Enrolment in lower secondary education, private institutions, both sexes (number)"
+"Enrolment in lower secondary education, private institutions, female (number)"
+"Enrolment in lower secondary education, public institutions, both sexes (number)"
+"Enrolment in lower secondary education, public institutions, female (number)"
+"Enrolment in lower secondary general education, Grade unspecified, both sexes (number)"
+"Enrolment in lower secondary general education, Grade unspecified, female (number)"
+"Enrolment in lower secondary general, both sexes (number)"
+"Enrolment in lower secondary general, female (number)"
+"Enrolment in lower secondary vocational, both sexes (number)"
+"Enrolment in lower secondary vocational, female (number)"
+"Enrolment in post-secondary non-tertiary education, both sexes (number)"
+"Enrolment in post-secondary non-tertiary education, female (number)"
+"Enrolment in post-secondary non-tertiary education, private institutions, both sexes (number)"
+"Enrolment in post-secondary non-tertiary education, private institutions, female (number)"
+"Enrolment in post-secondary non-tertiary education, public institutions, both sexes (number)"
+"Enrolment in post-secondary non-tertiary education, public institutions, female (number)"
+"Enrolment in pre-primary education, both sexes (number)"
+"Enrolment in pre-primary education, female (number)"
+"Enrolment in pre-primary education, private institutions, both sexes (number)"
+"Enrolment in pre-primary education, private institutions, female (number)"
+"Enrolment in pre-primary education, public institutions, both sexes (number)"
+"Enrolment in pre-primary education, public institutions, female (number)"
+"Enrolment in primary education, both sexes (number)"
+"Enrolment in primary education, female (number)"
+"Enrolment in primary education, Grade unspecified, both sexes (number)"
+"Enrolment in primary education, Grade unspecified, female (number)"
+"Enrolment in primary education, private institutions, both sexes (number)"
+"Enrolment in primary education, private institutions, female (number)"
+"Enrolment in primary education, public institutions, both sexes (number)"
+"Enrolment in primary education, public institutions, female (number)"
+"Enrolment in secondary education, both sexes (number)"
+"Enrolment in secondary education, female (number)"
+"Enrolment in secondary education, private institutions, both sexes (number)"
+"Enrolment in secondary education, private institutions, female (number)"
+"Enrolment in secondary education, public institutions, both sexes (number)"
+"Enrolment in secondary education, public institutions, female (number)"
+"Enrolment in secondary general, both sexes (number)"
+"Enrolment in secondary general, female (number)"
+"Enrolment in secondary vocational, both sexes (number)"
+"Enrolment in secondary vocational, female (number)"
+"Enrolment in tertiary education per 100,000 inhabitants, both sexes"
+"Enrolment in tertiary education per 100,000 inhabitants, female"
+"Enrolment in tertiary education per 100,000 inhabitants, male"
+"Enrolment in tertiary education, all programmes, both sexes (number)"
+"Enrolment in tertiary education, all programmes, female (number)"
+"Enrolment in tertiary education, ISCED 5 programmes, both sexes (number)"
+"Enrolment in tertiary education, ISCED 5 programmes, female (number)"
+"Enrolment in tertiary education, ISCED 6 programmes, both sexes (number)"
+"Enrolment in tertiary education, ISCED 6 programmes, female (number)"
+"Enrolment in tertiary education, ISCED 7 programmes, both sexes (number)"
+"Enrolment in tertiary education, ISCED 7 programmes, female (number)"
+"Enrolment in tertiary education, ISCED 8 programmes, both sexes (number)"
+"Enrolment in tertiary education, ISCED 8 programmes, female (number)"
+"Enrolment in upper secondary education, both sexes (number)"
+"Enrolment in upper secondary education, female (number)"
+"Enrolment in upper secondary education, private institutions, both sexes (number)"
+"Enrolment in upper secondary education, private institutions, female (number)"
+"Enrolment in upper secondary education, public institutions, both sexes (number)"
+"Enrolment in upper secondary education, public institutions, female (number)"
+"Enrolment in upper secondary general, both sexes (number)"
+"Enrolment in upper secondary general, female (number)"
+"Enrolment in upper secondary vocational, both sexes (number)"
+"Enrolment in upper secondary vocational, female (number)"
+GDP at market prices (constant 2005 US$)
+GDP at market prices (current US$)
+GDP per capita (constant 2005 US$)
+GDP per capita (current US$)
+"GDP per capita, PPP (constant 2011 international $)"
+"GDP per capita, PPP (current international $)"
+"GDP, PPP (constant 2011 international $)"
+"GDP, PPP (current international $)"
+GNI (current US$)
+"GNI per capita, Atlas method (current US$)"
+"GNI per capita, PPP (current international $)"
+"GNI, PPP (current international $)"
+Government expenditure per lower secondary student (constant PPP$)
+Government expenditure per lower secondary student (constant US$)
+Government expenditure per lower secondary student (PPP$)
+Government expenditure per lower secondary student (US$)
+Government expenditure per primary student (constant PPP$)
+Government expenditure per primary student (constant US$)
+Government expenditure per primary student (PPP$)
+Government expenditure per primary student (US$)
+Government expenditure per secondary student (constant PPP$)
+Government expenditure per secondary student (constant US$)
+Government expenditure per secondary student (PPP$)
+Government expenditure per secondary student (US$)
+Government expenditure per tertiary student (constant PPP$)
+Government expenditure per tertiary student (constant US$)
+Government expenditure per tertiary student (PPP$)
+Government expenditure per tertiary student (US$)
+Government expenditure per upper secondary student (constant PPP$)
+Government expenditure per upper secondary student (constant US$)
+Government expenditure per upper secondary student (PPP$)
+Government expenditure per upper secondary student (US$)
+"Graduates from ISCED 5 programmes in tertiary education, both sexes (number)"
+"Graduates from ISCED 5 programmes in tertiary education, female (number)"
+"Graduates from ISCED 8 programmes in tertiary education, both sexes (number)"
+"Graduates from ISCED 8 programmes in tertiary education, female (number)"
+"Graduates from tertiary education, both sexes (number)"
+"Graduates from tertiary education, female (number)"
+"Gross enrolment ratio, lower secondary, both sexes (%)"
+"Gross enrolment ratio, lower secondary, female (%)"
+"Gross enrolment ratio, lower secondary, male (%)"
+"Gross enrolment ratio, primary and lower secondary, both sexes (%)"
+"Gross enrolment ratio, primary and lower secondary, female (%)"
+"Gross enrolment ratio, primary and lower secondary, male (%)"
+"Gross enrolment ratio, primary and secondary, both sexes (%)"
+"Gross enrolment ratio, primary and secondary, female (%)"
+"Gross enrolment ratio, primary and secondary, male (%)"
+"Gross enrolment ratio, primary, both sexes (%)"
+"Gross enrolment ratio, primary, female (%)"
+"Gross enrolment ratio, primary, male (%)"
+"Gross enrolment ratio, secondary, both sexes (%)"
+"Gross enrolment ratio, secondary, female (%)"
+"Gross enrolment ratio, upper secondary, female (%)"
+"Illiterate population, 25-64 years, both sexes (number)"
+"Illiterate population, 25-64 years, female (number)"
+"Illiterate population, 25-64 years, male (number)"
+"Labor force, total"
+"LLECE: Mean performance on the mathematics scale for 3rd grade students, female"
+"LLECE: Mean performance on the mathematics scale for 3rd grade students, male"
+"LLECE: Mean performance on the mathematics scale for 3rd grade students, total"
+"LLECE: Mean performance on the mathematics scale for 6th grade students, female"
+"LLECE: Mean performance on the mathematics scale for 6th grade students, male"
+"LLECE: Mean performance on the mathematics scale for 6th grade students, total"
+"LLECE: Mean performance on the reading scale for 3rd grade students, female"
+"LLECE: Mean performance on the reading scale for 3rd grade students, male"
+"LLECE: Mean performance on the reading scale for 3rd grade students, total"
+"LLECE: Mean performance on the reading scale for 6th grade students, female"
+"LLECE: Mean performance on the reading scale for 6th grade students, male"
+"LLECE: Mean performance on the reading scale for 6th grade students, total"
+"Net enrolment rate, primary, both sexes (%)"
+"New entrants to Grade 1 of primary education, both sexes (number)"
+"New entrants to Grade 1 of primary education, female (number)"
+"Out-of-school adolescents of lower secondary school age, both sexes (number)"
+"Out-of-school adolescents of lower secondary school age, female (number)"
+"Out-of-school adolescents of lower secondary school age, male (number)"
+"Out-of-school children of primary school age in pre-primary education, both sexes (number)"
+"Out-of-school children of primary school age in pre-primary education, female (number)"
+"Out-of-school children of primary school age in pre-primary education, male (number)"
+"Out-of-school children of primary school age, both sexes (number)"
+"Out-of-school children of primary school age, female (number)"
+"Out-of-school children of primary school age, male (number)"
+"Out-of-school youth of upper secondary school age, both sexes (number)"
+"Out-of-school youth of upper secondary school age, female (number)"
+"Out-of-school youth of upper secondary school age, male (number)"
+Percentage of enrolment in tertiary education in private institutions (%)
+"Percentage of female students in lower secondary education enrolled in general programmes, female (%)"
+"Percentage of female students in secondary education enrolled in general programmes, female (%)"
+"Percentage of female students in upper secondary education enrolled in general programmes, female (%)"
+"Percentage of male students in lower secondary education enrolled in general programmes, male (%)"
+"Percentage of male students in secondary education enrolled in general programmes, male (%)"
+"Percentage of male students in upper secondary education enrolled in general programmes, male (%)"
+"Percentage of students in lower secondary education enrolled in general programmes, both sexes (%)"
+"Percentage of students in secondary education enrolled in general programmes, both sexes (%)"
+"Percentage of students in upper secondary education enrolled in general programmes, both sexes (%)"
+Percentage of teachers in lower secondary education who are female (%)
+Percentage of teachers in pre-primary education who are female (%)
+Percentage of teachers in primary education who are female (%)
+PISA: Distribution of Mathematics Scores: 10th Percentile Score
+PISA: Distribution of Mathematics Scores: 25th Percentile Score
+PISA: Distribution of Mathematics Scores: 50th Percentile Score
+PISA: Distribution of Mathematics Scores: 5th Percentile Score
+PISA: Distribution of Mathematics Scores: 75th Percentile Score
+PISA: Distribution of Mathematics Scores: 90th Percentile Score
+PISA: Distribution of Mathematics Scores: 95th Percentile Score
+PISA: Distribution of Reading Scores: 10th Percentile Score
+PISA: Distribution of Reading Scores: 25th Percentile Score
+PISA: Distribution of Reading Scores: 50th Percentile Score
+PISA: Distribution of Reading Scores: 5th Percentile Score
+PISA: Distribution of Reading Scores: 75th Percentile Score
+PISA: Distribution of Reading Scores: 90th Percentile Score
+PISA: Distribution of Reading Scores: 95th Percentile Score
+PISA: Distribution of Science Scores: 10th Percentile Score
+PISA: Distribution of Science Scores: 25th Percentile Score
+PISA: Distribution of Science Scores: 50th Percentile Score
+PISA: Distribution of Science Scores: 5th Percentile Score
+PISA: Distribution of Science Scores: 75th Percentile Score
+PISA: Distribution of Science Scores: 90th Percentile Score
+PISA: Distribution of Science Scores: 95th Percentile Score
+PISA: Mean performance on the mathematics scale
+PISA: Mean performance on the mathematics scale. Female
+PISA: Mean performance on the mathematics scale. Male
+PISA: Mean performance on the reading scale
+PISA: Mean performance on the reading scale. Female
+PISA: Mean performance on the reading scale. Male
+PISA: Mean performance on the science scale
+PISA: Mean performance on the science scale. Female
+PISA: Mean performance on the science scale. Male
+"Population of compulsory school age, both sexes (number)"
+"Population of compulsory school age, female (number)"
+"Population of compulsory school age, male (number)"
+"Population of the official age for lower secondary education, both sexes (number)"
+"Population of the official age for lower secondary education, female (number)"
+"Population of the official age for lower secondary education, male (number)"
+"Population of the official age for pre-primary education, both sexes (number)"
+"Population of the official age for pre-primary education, female (number)"
+"Population of the official age for pre-primary education, male (number)"
+"Population of the official age for primary education, both sexes (number)"
+"Population of the official age for primary education, female (number)"
+"Population of the official age for primary education, male (number)"
+"Population of the official age for secondary education, both sexes (number)"
+"Population of the official age for secondary education, female (number)"
+"Population of the official age for secondary education, male (number)"
+"Population of the official age for tertiary education, both sexes (number)"
+"Population of the official age for tertiary education, female (number)"
+"Population of the official age for tertiary education, male (number)"
+"Population of the official age for the last grade of primary education, both sexes (number)"
+"Population of the official age for the last grade of primary education, female (number)"
+"Population of the official age for the last grade of primary education, male (number)"
+"Population of the official age for upper secondary education, both sexes (number)"
+"Population of the official age for upper secondary education, female (number)"
+"Population of the official age for upper secondary education, male (number)"
+"Population of the official entrance age to primary education, both sexes (number)"
+"Population of the official entrance age to primary education, female (number)"
+"Population of the official entrance age to primary education, male (number)"
+"Population of the official entrance age to secondary general education, both sexes (number)"
+"Population of the official entrance age to secondary general education, female (number)"
+"Population of the official entrance age to secondary general education, male (number)"
+"Population, age 0, female"
+"Population, age 0, male"
+"Population, age 0, total"
+"Population, age 1, female"
+"Population, age 1, male"
+"Population, age 1, total"
+"Population, age 10, female"
+"Population, age 10, male"
+"Population, age 10, total"
+"Population, age 11, female"
+"Population, age 11, male"
+"Population, age 11, total"
+"Population, age 12, female"
+"Population, age 12, male"
+"Population, age 12, total"
+"Population, age 13, female"
+"Population, age 13, male"
+"Population, age 13, total"
+"Population, age 14, female"
+"Population, age 14, male"
+"Population, age 14, total"
+"Population, age 15, female"
+"Population, age 15, male"
+"Population, age 15, total"
+"Population, age 16, female"
+"Population, age 16, male"
+"Population, age 16, total"
+"Population, age 17, female"
+"Population, age 17, male"
+"Population, age 17, total"
+"Population, age 18, female"
+"Population, age 18, male"
+"Population, age 18, total"
+"Population, age 19, female"
+"Population, age 19, male"
+"Population, age 19, total"
+"Population, age 2, female"
+"Population, age 2, male"
+"Population, age 2, total"
+"Population, age 20, female"
+"Population, age 20, male"
+"Population, age 20, total"
+"Population, age 21, female"
+"Population, age 21, male"
+"Population, age 21, total"
+"Population, age 22, female"
+"Population, age 22, male"
+"Population, age 22, total"
+"Population, age 23, female"
+"Population, age 23, male"
+"Population, age 23, total"
+"Population, age 24, female"
+"Population, age 24, male"
+"Population, age 24, total"
+"Population, age 25, female"
+"Population, age 25, male"
+"Population, age 25, total"
+"Population, age 3, female"
+"Population, age 3, male"
+"Population, age 3, total"
+"Population, age 4, female"
+"Population, age 4, male"
+"Population, age 4, total"
+"Population, age 5, female"
+"Population, age 5, male"
+"Population, age 5, total"
+"Population, age 6, female"
+"Population, age 6, male"
+"Population, age 6, total"
+"Population, age 7, female"
+"Population, age 7, male"
+"Population, age 7, total"
+"Population, age 8, female"
+"Population, age 8, male"
+"Population, age 8, total"
+"Population, age 9, female"
+"Population, age 9, male"
+"Population, age 9, total"
+"Population, ages 0-14, female"
+"Population, ages 0-14, male"
+"Population, ages 0-14, total"
+"Population, ages 10-14, female"
+"Population, ages 10-14, male"
+"Population, ages 10-14, total"
+"Population, ages 10-15, female"
+"Population, ages 10-15, male"
+"Population, ages 10-15, total"
+"Population, ages 10-16, female"
+"Population, ages 10-16, male"
+"Population, ages 10-16, total"
+"Population, ages 10-17, female"
+"Population, ages 10-17, male"
+"Population, ages 10-17, total"
+"Population, ages 10-18, female"
+"Population, ages 10-18, male"
+"Population, ages 10-18, total"
+"Population, ages 11-15, female"
+"Population, ages 11-15, male"
+"Population, ages 11-15, total"
+"Population, ages 11-16, female"
+"Population, ages 11-16, male"
+"Population, ages 11-16, total"
+"Population, ages 11-17, female"
+"Population, ages 11-17, male"
+"Population, ages 11-17, total"
+"Population, ages 11-18, female"
+"Population, ages 11-18, male"
+"Population, ages 11-18, total"
+"Population, ages 12-15, female"
+"Population, ages 12-15, male"
+"Population, ages 12-15, total"
+"Population, ages 12-16, female"
+"Population, ages 12-16, male"
+"Population, ages 12-16, total"
+"Population, ages 12-17, female"
+"Population, ages 12-17, male"
+"Population, ages 12-17, total"
+"Population, ages 12-18, female"
+"Population, ages 12-18, male"
+"Population, ages 12-18, total"
+"Population, ages 13-16, female"
+"Population, ages 13-16, male"
+"Population, ages 13-16, total"
+"Population, ages 13-17, female"
+"Population, ages 13-17, male"
+"Population, ages 13-17, total"
+"Population, ages 13-18, female"
+"Population, ages 13-18, male"
+"Population, ages 13-18, total"
+"Population, ages 13-19, female"
+"Population, ages 13-19, male"
+"Population, ages 13-19, total"
+"Population, ages 14-18, female"
+"Population, ages 14-18, male"
+"Population, ages 14-18, total"
+"Population, ages 14-19, female"
+"Population, ages 14-19, male"
+"Population, ages 14-19, total"
+"Population, ages 15-24, female"
+"Population, ages 15-24, male"
+"Population, ages 15-24, total"
+"Population, ages 15-64 (% of total)"
+"Population, ages 15-64, female"
+"Population, ages 15-64, male"
+"Population, ages 15-64, total"
+"Population, ages 3-5, female"
+"Population, ages 3-5, male"
+"Population, ages 3-5, total"
+"Population, ages 4-6, female"
+"Population, ages 4-6, male"
+"Population, ages 4-6, total"
+"Population, ages 5-10, female"
+"Population, ages 5-10, male"
+"Population, ages 5-10, total"
+"Population, ages 5-11, female"
+"Population, ages 5-11, male"
+"Population, ages 5-11, total"
+"Population, ages 5-9, female"
+"Population, ages 5-9, male"
+"Population, ages 5-9, total"
+"Population, ages 6-10, female"
+"Population, ages 6-10, male"
+"Population, ages 6-10, total"
+"Population, ages 6-11, female"
+"Population, ages 6-11, male"
+"Population, ages 6-11, total"
+"Population, ages 6-12, female"
+"Population, ages 6-12, male"
+"Population, ages 6-12, total"
+"Population, ages 6-9, female"
+"Population, ages 6-9, male"
+"Population, ages 6-9, total"
+"Population, ages 7-10, female"
+"Population, ages 7-10, male"
+"Population, ages 7-10, total"
+"Population, ages 7-11, female"
+"Population, ages 7-11, male"
+"Population, ages 7-11, total"
+"Population, ages 7-12, female"
+"Population, ages 7-12, male"
+"Population, ages 7-12, total"
+"Population, ages 7-13, female"
+"Population, ages 7-13, male"
+"Population, ages 7-13, total"
+"Population, ages 7-9, female"
+"Population, ages 7-9, male"
+"Population, ages 7-9, total"
+"Population, female"
+"Population, male"
+"Population, total"
+"Repeaters in Grade 1 of lower secondary general education, both sexes (number)"
+"Repeaters in Grade 1 of primary education, both sexes (number)"
+"Repeaters in Grade 1 of primary education, female (number)"
+"Repeaters in Grade 2 of lower secondary general education, both sexes (number)"
+"Repeaters in Grade 2 of primary education, both sexes (number)"
+"Repeaters in Grade 3 of lower secondary general education, both sexes (number)"
+"Repeaters in Grade 3 of primary education, both sexes (number)"
+"Repeaters in Grade 4 of lower secondary general education, both sexes (number)"
+"Repeaters in Grade 4 of primary education, both sexes (number)"
+"Repeaters in lower secondary general education, all grades, both sexes (number)"
+"Repeaters in primary education, all grades, both sexes (number)"
+"Repeaters in primary education, all grades, female (number)"
+"Teachers in lower secondary education, both sexes (number)"
+"Teachers in lower secondary education, female (number)"
+"Teachers in post-secondary non-tertiary education, both sexes (number)"
+"Teachers in post-secondary non-tertiary education, female (number)"
+"Teachers in pre-primary education, both sexes (number)"
+"Teachers in pre-primary education, female (number)"
+"Teachers in primary education, both sexes (number)"
+"Teachers in primary education, female (number)"
+"Teachers in secondary education, both sexes (number)"
+"Teachers in secondary education, female (number)"
+"Teachers in secondary general education, both sexes (number)"
+"Teachers in secondary general education, female (number)"
+"Teachers in secondary vocational education, both sexes (number)"
+"Teachers in secondary vocational education, female (number)"
+"Teachers in tertiary education ISCED 5 programmes, both sexes (number)"
+"Teachers in tertiary education programmes, both sexes (number)"
+"Teachers in tertiary education programmes, female (number)"
+"Teachers in upper secondary education, both sexes (number)"
+"Teachers in upper secondary education, female (number)"
+"Total inbound internationally mobile students, both sexes (number)"
+"Total inbound internationally mobile students, female (number)"
+"Total net enrolment rate, primary, both sexes (%)"
+"Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (number)"
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Female
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Male
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Lower Secondary. Total
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Female
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Male
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Primary. Total
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Female
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Male
+Wittgenstein Projection: Population age 15-19 in thousands by highest level of educational attainment. Upper Secondary. Total
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Female
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Male
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Lower Secondary. Total
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Female
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Male
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Primary. Total
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Female
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Male
+Wittgenstein Projection: Population age 20-24 in thousands by highest level of educational attainment. Upper Secondary. Total
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Incomplete Primary. Total
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Female
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Male
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Lower Secondary. Total
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Female
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Post Secondary. Total
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Female
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Male
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Primary. Total
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Female
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Male
+Wittgenstein Projection: Population age 25-29 in thousands by highest level of educational attainment. Upper Secondary. Total
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Female
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Male
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Incomplete Primary. Total
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Female
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Male
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Lower Secondary. Total
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Female
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Male
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. No Education. Total
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Female
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Male
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Post Secondary. Total
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Female
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Male
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Primary. Total
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Female
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Male
+Wittgenstein Projection: Population in thousands by highest level of educational attainment. Upper Secondary. Total
+"Youth illiterate population, 15-24 years, both sexes (number)"
+"Youth illiterate population, 15-24 years, female (number)"
+"Youth illiterate population, 15-24 years, male (number)"
+"Youth literacy rate, population 15-24 years, both sexes (%)"
+"Youth literacy rate, population 15-24 years, female (%)"
+"Youth literacy rate, population 15-24 years, male (%)"
