@@ -12,6 +12,7 @@ Bibliotecas:
 - Zipfile
 - Matplotlib
 - Numpy
+- Scikit-learn
 
 
 Dataset:
