@@ -13,6 +13,7 @@ Bibliotecas:
 - Matplotlib
 - Numpy
 - Scikit-learn
+- graphviz
 
 
 Dataset:
