@@ -1,77 +1,95 @@
 Indicador
-"Adjusted net enrolment rate, primary, both sexes (%);SE.PRM.TENR;0.75"
-"Adjusted net intake rate to Grade 1 of primary education, both sexes (%);UIS.NIRA.1;0.75"
-All staff compensation as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNS;0.9375
-All staff compensation as % of total expenditure in pre-primary public institutions (%);UIS.XSPENDP.0.FDPUB.FNS;0.875
-All staff compensation as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNS;0.9375
-All staff compensation as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNS;0.9375
-All staff compensation as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNS;0.9375
-All staff compensation as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNS;0.9375
-All staff compensation as % of total expenditure in upper secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNS;0.9375
-Capital expenditure as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNCAP;0.9375
-Capital expenditure as % of total expenditure in pre-primary public institutions (%);UIS.XSPENDP.0.FDPUB.FNCAP;0.875
-Capital expenditure as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNCAP;0.9375
-Capital expenditure as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNCAP;0.9375
-Capital expenditure as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNCAP;0.9375
-Capital expenditure as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNCAP;0.9375
-Capital expenditure as % of total expenditure in upper-secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNCAP;0.9375
-Current expenditure as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNCUR;0.9375
-Current expenditure as % of total expenditure in pre-primary public institutions (%);UIS.XSPENDP.0.FDPUB.FNCUR;0.875
-Current expenditure as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNCUR;0.9375
-Current expenditure as % of total expenditure in public institutions (%);SE.XPD.CUR.TOTL.ZS;0.9375
-Current expenditure as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNCUR;0.9375
-Current expenditure as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNCUR;0.9375
-Current expenditure as % of total expenditure in upper-secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNCUR;0.9375
-Current expenditure other than staff compensation as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNNONS;0.9375
-Current expenditure other than staff compensation as % of total expenditure in pre-primary public institutions (%);UIS.XSPENDP.0.FDPUB.FNNONS;0.875
-Current expenditure other than staff compensation as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNNONS;0.9375
-Current expenditure other than staff compensation as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNNONS;0.9375
-Current expenditure other than staff compensation as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNNONS;0.9375
-Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNNONS;0.9375
-Current expenditure other than staff compensation as % of total expenditure in upper secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNNONS;0.9375
+"Adjusted net enrolment rate, primary, both sexes (%);SE.PRM.TENR;0.8"
+"Adjusted net enrolment rate, primary, female (%);SE.PRM.TENR.FE;0.8"
+"Adjusted net enrolment rate, primary, male (%);SE.PRM.TENR.MA;0.8"
+"Adult illiterate population, 15+ years, % female;UIS.LPP.AG15T99;1.0"
+"Adult illiterate population, 15+ years, both sexes (number);UIS.LP.AG15T99;1.0"
+"Adult illiterate population, 15+ years, female (number);UIS.LP.AG15T99.F;1.0"
+"Adult illiterate population, 15+ years, male (number);UIS.LP.AG15T99.M;1.0"
+"Adult literacy rate, population 15+ years, both sexes (%);SE.ADT.LITR.ZS;1.0"
+"Adult literacy rate, population 15+ years, female (%);SE.ADT.LITR.FE.ZS;1.0"
+"Adult literacy rate, population 15+ years, gender parity index (GPI);UIS.LR.AG15T99.GPI;1.0"
+"Adult literacy rate, population 15+ years, male (%);SE.ADT.LITR.MA.ZS;1.0"
+All staff compensation as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNS;0.8
+All staff compensation as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNS;0.8
+All staff compensation as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNS;0.8
+All staff compensation as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNS;0.8
+All staff compensation as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNS;0.8
+All staff compensation as % of total expenditure in upper secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNS;0.8
+Capital expenditure as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNCAP;0.8
+Capital expenditure as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNCAP;0.8
+Capital expenditure as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNCAP;0.8
+Capital expenditure as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNCAP;0.8
+Capital expenditure as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNCAP;0.8
+Capital expenditure as % of total expenditure in upper-secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNCAP;0.8
+Current expenditure as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNCUR;0.8
+Current expenditure as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNCUR;0.8
+Current expenditure as % of total expenditure in public institutions (%);SE.XPD.CUR.TOTL.ZS;0.8
+Current expenditure as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNCUR;0.8
+Current expenditure as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNCUR;0.8
+Current expenditure as % of total expenditure in upper-secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNCUR;0.8
+Current expenditure other than staff compensation as % of total expenditure in lower secondary public institutions (%);UIS.XSPENDP.2.FDPUB.FNNONS;0.8
+Current expenditure other than staff compensation as % of total expenditure in primary public institutions (%);UIS.XSPENDP.1.FDPUB.FNNONS;0.8
+Current expenditure other than staff compensation as % of total expenditure in public institutions (%);UIS.XSPENDP.FDPUB.FNNONS;0.8
+Current expenditure other than staff compensation as % of total expenditure in secondary public institutions (%);UIS.XSPENDP.23.FDPUB.FNNONS;0.8
+Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%);UIS.XSPENDP.56.FDPUB.FNNONS;0.8
+Current expenditure other than staff compensation as % of total expenditure in upper secondary public institutions (%);UIS.XSPENDP.3.FDPUB.FNNONS;0.8
 Duration of compulsory education (years);SE.COM.DURS;1.0
-"Enrolment in Grade 1 of lower secondary general education, both sexes (number);UIS.E.2.GPV.G1.T;0.75"
-"Enrolment in Grade 1 of lower secondary general education, female (number);UIS.E.2.GPV.G1.F;0.75"
-"Enrolment in lower secondary education, both sexes (number);UIS.E.2;0.875"
-"Enrolment in lower secondary education, female (number);UIS.E.2.F;0.875"
-"Enrolment in lower secondary education, private institutions, both sexes (number);UIS.E.2.PR;0.875"
-"Enrolment in lower secondary education, public institutions, both sexes (number);UIS.E.2.PU;0.875"
-"Enrolment in lower secondary general, both sexes (number);UIS.E.2.GPV;0.875"
-"Enrolment in lower secondary general, female (number);UIS.E.2.GPV.F;0.875"
-"Enrolment in primary education, both sexes (number);SE.PRM.ENRL;0.875"
-"Enrolment in primary education, female (number);SE.PRM.ENRL.FE;0.875"
-"Enrolment in primary education, private institutions, both sexes (number);UIS.E.1.PR;0.9375"
-"Enrolment in primary education, public institutions, both sexes (number);UIS.E.1.PU;0.875"
-"Enrolment in secondary education, private institutions, both sexes (number);UIS.E.23.PR;0.75"
-"Enrolment in secondary education, public institutions, both sexes (number);UIS.E.23.PU;0.75"
-"Enrolment in secondary general, both sexes (number);SE.SEC.ENRL.GC;0.875"
-"Enrolment in secondary general, female (number);SE.SEC.ENRL.GC.FE;0.875"
-"Enrolment in secondary vocational, both sexes (number);SE.SEC.ENRL.VO;0.75"
-"Enrolment in secondary vocational, female (number);SE.SEC.ENRL.VO.FE;0.75"
-"Enrolment in tertiary education per 100,000 inhabitants, both sexes;UIS.TE_100000.56;0.75"
-"Enrolment in tertiary education per 100,000 inhabitants, female;UIS.TE_100000.56.F;0.75"
-"Enrolment in tertiary education per 100,000 inhabitants, male;UIS.TE_100000.56.M;0.75"
-"Enrolment in tertiary education, all programmes, both sexes (number);SE.TER.ENRL;0.9375"
-"Enrolment in tertiary education, all programmes, female (number);SE.TER.ENRL.FE;0.9375"
-"Enrolment in tertiary education, ISCED 8 programmes, both sexes (number);UIS.E.8;0.875"
-"Enrolment in tertiary education, ISCED 8 programmes, female (number);UIS.E.8.F;0.875"
-"Enrolment in upper secondary education, private institutions, both sexes (number);UIS.E.3.PR;0.75"
-"Enrolment in upper secondary education, public institutions, both sexes (number);UIS.E.3.PU;0.75"
-"Enrolment in upper secondary general, both sexes (number);UIS.E.3.GPV;0.875"
-"Enrolment in upper secondary general, female (number);UIS.E.3.GPV.F;0.875"
-Expenditure on education as % of total government expenditure (%);SE.XPD.TOTL.GB.ZS;0.9375
-Expenditure on lower secondary as % of government expenditure on education (%);UIS.XPUBP.2;0.875
-Expenditure on lower secondary as % of total government expenditure (%);UIS.XGOVEXP.IMF.2;0.875
-Expenditure on pre-primary as % of government expenditure on education (%);UIS.XPUBP.0;0.875
-Expenditure on pre-primary as % of total government expenditure (%);UIS.XGOVEXP.IMF.0;0.875
-Expenditure on primary as % of government expenditure on education (%);SE.XPD.PRIM.ZS;0.9375
-Expenditure on primary as % of total government expenditure (%);UIS.XGOVEXP.IMF.1;0.875
-Expenditure on secondary as % of government expenditure on education (%);SE.XPD.SECO.ZS;0.9375
-Expenditure on secondary as % of total government expenditure (%);UIS.XGOVEXP.IMF.23;0.875
-Expenditure on tertiary as % of government expenditure on education (%);SE.XPD.TERT.ZS;0.9375
-Expenditure on tertiary as % of total government expenditure (%);UIS.XGOVEXP.IMF.56;0.875
-Expenditure on upper secondary as % of government expenditure on education (%);UIS.XPUBP.3;0.875
-Expenditure on upper secondary as % of total government expenditure (%);UIS.XGOVEXP.IMF.3;0.875
+"Elderly illiterate population, 65+ years, % female;UIS.LPP.AG65;1.0"
+"Elderly illiterate population, 65+ years, both sexes (number);UIS.LP.AG65;1.0"
+"Elderly illiterate population, 65+ years, female (number);UIS.LP.AG65.F;1.0"
+"Elderly illiterate population, 65+ years, male (number);UIS.LP.AG65.M;1.0"
+"Elderly literacy rate, population 65+ years, both sexes (%);UIS.LR.AG65;1.0"
+"Elderly literacy rate, population 65+ years, female (%);UIS.LR.AG65.F;1.0"
+"Elderly literacy rate, population 65+ years, gender parity index (GPI);UIS.LR.AG65.GPI;1.0"
+"Elderly literacy rate, population 65+ years, male (%);UIS.LR.AG65.M;1.0"
+"Enrolment in early childhood education, both sexes (number);UIS.E.0.T;0.8"
+"Enrolment in early childhood educational development programmes, both sexes (number);UIS.E.01.T;0.8"
+"Enrolment in Grade 1 of lower secondary general education, both sexes (number);UIS.E.2.GPV.G1.T;0.8"
+"Enrolment in Grade 1 of lower secondary general education, female (number);UIS.E.2.GPV.G1.F;0.8"
+"Enrolment in Grade 2 of lower secondary general education, both sexes (number);UIS.E.2.GPV.G2.T;0.8"
+"Enrolment in Grade 2 of lower secondary general education, female (number);UIS.E.2.GPV.G2.F;0.8"
+"Enrolment in Grade 3 of lower secondary general education, both sexes (number);UIS.E.2.GPV.G3.T;0.8"
+"Enrolment in Grade 3 of lower secondary general education, female (number);UIS.E.2.GPV.G3.F;0.8"
+"Enrolment in Grade 4 of lower secondary general education, both sexes (number);UIS.E.2.GPV.G4.T;0.8"
+"Enrolment in Grade 4 of lower secondary general education, female (number);UIS.E.2.GPV.G4.F;0.8"
+"Enrolment in lower secondary education, both sexes (number);UIS.E.2;0.8"
+"Enrolment in lower secondary education, female (number);UIS.E.2.F;0.8"
+"Enrolment in lower secondary education, private institutions, both sexes (number);UIS.E.2.PR;0.8"
+"Enrolment in lower secondary education, public institutions, both sexes (number);UIS.E.2.PU;0.8"
+"Enrolment in lower secondary general, both sexes (number);UIS.E.2.GPV;0.8"
+"Enrolment in lower secondary general, female (number);UIS.E.2.GPV.F;0.8"
+"Enrolment in pre-primary education, both sexes (number);SE.PRE.ENRL;1.0"
+"Enrolment in primary education, both sexes (number);SE.PRM.ENRL;1.0"
+"Enrolment in primary education, female (number);SE.PRM.ENRL.FE;1.0"
+"Enrolment in primary education, private institutions, both sexes (number);UIS.E.1.PR;0.8"
+"Enrolment in primary education, public institutions, both sexes (number);UIS.E.1.PU;0.8"
+"Enrolment in secondary education, both sexes (number);SE.SEC.ENRL;1.0"
+"Enrolment in secondary education, female (number);SE.SEC.ENRL.FE;1.0"
+"Enrolment in secondary education, private institutions, both sexes (number);UIS.E.23.PR;0.8"
+"Enrolment in secondary education, public institutions, both sexes (number);UIS.E.23.PU;0.8"
+"Enrolment in secondary general, both sexes (number);SE.SEC.ENRL.GC;1.0"
+"Enrolment in secondary general, female (number);SE.SEC.ENRL.GC.FE;1.0"
+"Enrolment in secondary vocational, both sexes (number);SE.SEC.ENRL.VO;1.0"
+"Enrolment in secondary vocational, female (number);SE.SEC.ENRL.VO.FE;1.0"
+"Enrolment in tertiary education, all programmes, both sexes (number);SE.TER.ENRL;1.0"
+"Enrolment in tertiary education, all programmes, female (number);SE.TER.ENRL.FE;1.0"
+"Enrolment in tertiary education, ISCED 5 programmes, both sexes (number);UIS.E.5.B;0.8"
+"Enrolment in tertiary education, ISCED 5 programmes, female (number);UIS.E.5.B.F;0.8"
+"Enrolment in tertiary education, ISCED 8 programmes, both sexes (number);UIS.E.8;0.8"
+"Enrolment in tertiary education, ISCED 8 programmes, female (number);UIS.E.8.F;0.8"
+"Enrolment in upper secondary education, both sexes (number);UIS.E.3;0.8"
+"Enrolment in upper secondary education, female (number);UIS.E.3.F;0.8"
+"Enrolment in upper secondary education, private institutions, both sexes (number);UIS.E.3.PR;0.8"
+"Enrolment in upper secondary education, public institutions, both sexes (number);UIS.E.3.PU;0.8"
+"Enrolment in upper secondary general, both sexes (number);UIS.E.3.GPV;0.8"
+"Enrolment in upper secondary general, female (number);UIS.E.3.GPV.F;0.8"
+"Enrolment in upper secondary vocational, both sexes (number);UIS.E.3.V;0.8"
+"Enrolment in upper secondary vocational, female (number);UIS.E.3.V.F;0.8"
+Expenditure on education as % of total government expenditure (%);SE.XPD.TOTL.GB.ZS;0.8
+Expenditure on primary as % of government expenditure on education (%);SE.XPD.PRIM.ZS;0.8
+Expenditure on secondary as % of government expenditure on education (%);SE.XPD.SECO.ZS;0.8
+Expenditure on tertiary as % of government expenditure on education (%);SE.XPD.TERT.ZS;0.8
 GDP at market prices (constant 2005 US$);NY.GDP.MKTP.KD;1.0
 GDP at market prices (current US$);NY.GDP.MKTP.CD;1.0
 GDP per capita (constant 2005 US$);NY.GDP.PCAP.KD;1.0
@@ -84,201 +102,276 @@ GNI (current US$);NY.GNP.MKTP.CD;1.0
 "GNI per capita, Atlas method (current US$);NY.GNP.PCAP.CD;1.0"
 "GNI per capita, PPP (current international $);NY.GNP.PCAP.PP.CD;1.0"
 "GNI, PPP (current international $);NY.GNP.MKTP.PP.CD;1.0"
-Government expenditure in educational institutions as % of GDP (%);UIS.XGDP.FSGOV.FDINSTADM.FFD;0.875
-Government expenditure in pre-primary institutions as % of GDP (%);UIS.XGDP.0.FSGOV.FDINSTADM.FFD;0.8125
-Government expenditure in primary institutions as % of GDP (%);UIS.XGDP.1.FSGOV.FDINSTADM.FFD;0.875
-Government expenditure in secondary institutions education as % of GDP (%);XGDP.23.FSGOV.FDINSTADM.FFD;0.875
-Government expenditure in tertiary institutions as % of GDP (%);XGDP.56.FSGOV.FDINSTADM.FFD;0.875
-Government expenditure on education as % of GDP (%);SE.XPD.TOTL.GD.ZS;0.9375
-Government expenditure on pre-primary education as % of GDP (%);UIS.XGDP.0.FSGOV;0.875
-Government expenditure on primary education as % of GDP (%);UIS.XGDP.1.FSGOV;0.875
-Government expenditure on secondary education as % of GDP (%);UIS.XGDP.23.FSGOV;0.875
-Government expenditure on tertiary education as % of GDP (%);UIS.XGDP.56.FSGOV;0.875
-Government expenditure per lower secondary student (constant PPP$);UIS.XUNIT.PPPCONST.2.FSGOV;0.75
-Government expenditure per lower secondary student (constant US$);UIS.XUNIT.USCONST.2.FSGOV;0.75
-Government expenditure per lower secondary student (PPP$);UIS.XUNIT.PPP.2.FSGOV;0.75
-Government expenditure per lower secondary student (US$);UIS.XUNIT.US.2.FSGOV;0.75
-Government expenditure per lower secondary student as % of GDP per capita (%);UIS.XUNIT.GDPCAP.2.FSGOV;0.75
-Government expenditure per primary student (constant PPP$);UIS.XUNIT.PPPCONST.1.FSGOV;0.75
-Government expenditure per primary student (constant US$);UIS.XUNIT.USCONST.1.FSGOV;0.75
-Government expenditure per primary student (PPP$);UIS.XUNIT.PPP.1.FSGOV;0.75
-Government expenditure per primary student (US$);UIS.XUNIT.US.1.FSGOV;0.75
-Government expenditure per primary student as % of GDP per capita (%);SE.XPD.PRIM.PC.ZS;0.8125
-Government expenditure per tertiary student (constant PPP$);UIS.XUNIT.PPPCONST.56.FSGOV;0.8125
-Government expenditure per tertiary student (constant US$);UIS.XUNIT.USCONST.56.FSGOV;0.8125
-Government expenditure per tertiary student (PPP$);UIS.XUNIT.PPP.56.FSGOV;0.8125
-Government expenditure per tertiary student (US$);UIS.XUNIT.US.56.FSGOV;0.8125
-Government expenditure per tertiary student as % of GDP per capita (%);SE.XPD.TERT.PC.ZS;0.875
-"Graduates from ISCED 8 programmes in tertiary education, both sexes (number);UIS.G.8.T;0.75"
-"Graduates from ISCED 8 programmes in tertiary education, female (number);UIS.G.8.F;0.75"
-"Graduates from tertiary education, both sexes (number);SE.TER.GRAD;0.875"
-"Graduates from tertiary education, female (number);SE.TER.GRAD.FE;0.875"
-"Gross enrolment ratio, lower secondary, both sexes (%);SE.SEC.ENRR.LO;0.75"
-"Gross enrolment ratio, lower secondary, female (%);SE.SEC.ENRR.LO.FE;0.75"
-"Gross enrolment ratio, lower secondary, gender parity index (GPI);UIS.GER.2.GPI;0.75"
-"Gross enrolment ratio, lower secondary, male (%);SE.SEC.ENRR.LO.MA;0.75"
-"Gross enrolment ratio, primary and lower secondary, both sexes (%);UIS.GER.12;0.75"
-"Gross enrolment ratio, primary and lower secondary, female (%);UIS.GER.12.F;0.75"
-"Gross enrolment ratio, primary and lower secondary, gender parity index (GPI);UIS.GER.12.GPI;0.75"
-"Gross enrolment ratio, primary and lower secondary, male (%);UIS.GER.12.M;0.75"
-"Gross enrolment ratio, primary, both sexes (%);SE.PRM.ENRR;0.75"
-"Gross enrolment ratio, primary, female (%);SE.PRM.ENRR.FE;0.75"
-"Gross enrolment ratio, primary, gender parity index (GPI);SE.ENR.PRIM.FM.ZS;0.75"
-"Gross enrolment ratio, primary, male (%);SE.PRM.ENRR.MA;0.75"
-"Gross enrolment ratio, tertiary, both sexes (%);SE.TER.ENRR;0.75"
-"Gross enrolment ratio, tertiary, female (%);SE.TER.ENRR.FE;0.75"
-"Gross enrolment ratio, tertiary, gender parity index (GPI);SE.ENR.TERT.FM.ZS;0.75"
-"Gross enrolment ratio, tertiary, male (%);SE.TER.ENRR.MA;0.75"
+Government expenditure on education as % of GDP (%);SE.XPD.TOTL.GD.ZS;0.8
+Government expenditure per primary student as % of GDP per capita (%);SE.XPD.PRIM.PC.ZS;0.8
+Government expenditure per secondary student as % of GDP per capita (%);SE.XPD.SECO.PC.ZS;0.8
+Government expenditure per tertiary student as % of GDP per capita (%);SE.XPD.TERT.PC.ZS;0.8
+"Graduates from ISCED 5 programmes in tertiary education, both sexes (number);UIS.G.5.B.T;0.8"
+"Graduates from ISCED 5 programmes in tertiary education, female (number);UIS.G.5.B.F;0.8"
+"Graduates from ISCED 8 programmes in tertiary education, both sexes (number);UIS.G.8.T;0.8"
+"Graduates from ISCED 8 programmes in tertiary education, female (number);UIS.G.8.F;0.8"
+"Graduates from tertiary education, both sexes (number);SE.TER.GRAD;0.8"
+"Graduates from tertiary education, female (number);SE.TER.GRAD.FE;0.8"
+"Gross enrolment ratio, lower secondary, both sexes (%);SE.SEC.ENRR.LO;0.8"
+"Gross enrolment ratio, lower secondary, female (%);SE.SEC.ENRR.LO.FE;0.8"
+"Gross enrolment ratio, lower secondary, male (%);SE.SEC.ENRR.LO.MA;0.8"
+"Gross enrolment ratio, pre-primary, both sexes (%);SE.PRE.ENRR;0.8"
+"Gross enrolment ratio, primary and secondary, gender parity index (GPI);SE.ENR.PRSC.FM.ZS;0.8"
+"Gross enrolment ratio, primary to tertiary, both sexes (%);SE.TOT.ENRR;0.8"
+"Gross enrolment ratio, primary, both sexes (%);SE.PRM.ENRR;0.8"
+"Gross enrolment ratio, primary, female (%);SE.PRM.ENRR.FE;0.8"
+"Gross enrolment ratio, primary, gender parity index (GPI);SE.ENR.PRIM.FM.ZS;0.8"
+"Gross enrolment ratio, primary, male (%);SE.PRM.ENRR.MA;0.8"
+"Gross enrolment ratio, secondary, both sexes (%);SE.SEC.ENRR;0.8"
+"Gross enrolment ratio, secondary, female (%);SE.SEC.ENRR.FE;0.8"
+"Gross enrolment ratio, secondary, gender parity index (GPI);SE.ENR.SECO.FM.ZS;0.8"
+"Gross enrolment ratio, secondary, male (%);SE.SEC.ENRR.MA;0.8"
+"Gross enrolment ratio, tertiary, both sexes (%);SE.TER.ENRR;0.8"
+"Gross enrolment ratio, tertiary, female (%);SE.TER.ENRR.FE;0.8"
+"Gross enrolment ratio, tertiary, gender parity index (GPI);SE.ENR.TERT.FM.ZS;0.8"
+"Gross enrolment ratio, tertiary, male (%);SE.TER.ENRR.MA;0.8"
+"Gross enrolment ratio, upper secondary, both sexes (%);SE.SEC.ENRR.UP;0.8"
+"Gross enrolment ratio, upper secondary, female (%);SE.SEC.ENRR.UP.FE;0.8"
+"Gross enrolment ratio, upper secondary, male (%);SE.SEC.ENRR.UP.MA;0.8"
+"Illiterate population, 25-64 years, % female;UIS.ILLPOPF.AG25T64;1.0"
+"Illiterate population, 25-64 years, both sexes (number);UIS.ILLPOP.AG25T64;1.0"
+"Illiterate population, 25-64 years, female (number);UIS.ILLPOP.AG25T64.F;1.0"
+"Illiterate population, 25-64 years, male (number);UIS.ILLPOP.AG25T64.M;1.0"
 Internet users (per 100 people);IT.NET.USER.P2;1.0
+Labor force with advanced education (% of total);SL.TLF.ADVN.ZS;0.8
+"Labor force with advanced education, female (% of female labor force);SL.TLF.ADVN.FE.ZS;0.8"
+"Labor force with advanced education, male (% of male labor force);SL.TLF.ADVN.MA.ZS;0.8"
+Labor force with basic education (% of total);SL.TLF.BASC.ZS;0.8
+"Labor force with basic education, female (% of female labor force);SL.TLF.BASC.FE.ZS;0.8"
+"Labor force with basic education, male (% of male labor force);SL.TLF.BASC.MA.ZS;0.8"
+Labor force with intermediate education (% of total);SL.TLF.INTM.ZS;0.8
+"Labor force with intermediate education, female (% of female labor force);SL.TLF.INTM.FE.ZS;0.8"
+"Labor force with intermediate education, male (% of male labor force);SL.TLF.INTM.MA.ZS;0.8"
 "Labor force, female (% of total labor force);SL.TLF.TOTL.FE.ZS;1.0"
 "Labor force, total;SL.TLF.TOTL.IN;1.0"
+"Literacy rate, population 25-64 years, both sexes (%);UIS.LR.AG25T64;1.0"
+"Literacy rate, population 25-64 years, female (%);UIS.LR.AG25T64.F;1.0"
+"Literacy rate, population 25-64 years, gender parity index (GPI);UIS.LR.AG25T64.GPI;1.0"
+"Literacy rate, population 25-64 years, male (%);UIS.LR.AG25T64.M;1.0"
 "Mortality rate, under-5 (per 1,000);SH.DYN.MORT;1.0"
-"Net enrolment rate, primary, both sexes (%);SE.PRM.NENR;0.75"
-Official entrance age to compulsory education (years);UIS.CEAGE.1;0.9375
+"Net enrolment rate, primary, both sexes (%);SE.PRM.NENR;0.8"
+"Net enrolment rate, primary, female (%);SE.PRM.NENR.FE;0.8"
+"Net enrolment rate, primary, male (%);SE.PRM.NENR.MA;0.8"
+"Net enrolment rate, secondary, both sexes (%);SE.SEC.NENR;0.8"
+"Net enrolment rate, secondary, female (%);SE.SEC.NENR.FE;0.8"
+"Net enrolment rate, secondary, male (%);SE.SEC.NENR.MA;0.8"
+Official entrance age to compulsory education (years);UIS.CEAGE.1;1.0
 Official entrance age to lower secondary education (years);SE.SEC.AGES;1.0
 Official entrance age to pre-primary education (years);UIS.THAGE.0;1.0
 Official entrance age to primary education (years);SE.PRM.AGES;1.0
-Official entrance age to upper secondary education (years);UIS.THAGE.3.A.GPV;0.9375
-"Outbound mobility ratio, all regions, both sexes (%);UIS.OMR.56;0.9375"
-"Out-of-school children of primary school age in pre-primary education, both sexes (number);UIS.OFSPPT.1;0.875"
-"Out-of-school children of primary school age in pre-primary education, female (number);UIS.OFSPPT.1.F;0.8125"
-"Out-of-school children of primary school age in pre-primary education, male (number);UIS.OFSPPT.1.M;0.8125"
-"Out-of-school children of primary school age, both sexes (number);SE.PRM.UNER;0.75"
-"Percentage of all students in tertiary education enrolled in ISCED 8, both sexes (%);UIS.TEP.8;0.9375"
-Percentage of enrolment in lower secondary education in private institutions (%);UIS.PRP.2;0.875
-Percentage of enrolment in primary education in private institutions (%);SE.PRM.PRIV.ZS;0.875
-Percentage of enrolment in tertiary education in private institutions (%);SE.TER.PRIV.ZS;0.875
-"Percentage of female students in lower secondary education enrolled in general programmes, female (%);UIS.GTVP.2.GPV.F;0.875"
-Percentage of female students in tertiary education enrolled in ISCED 8;UIS.TEP.8.F;0.9375
-Percentage of graduates from tertiary education who are female (%);SE.TER.GRAD.FE.ZS;0.875
-Percentage of graduates from tertiary ISCED 8 programmes who are female (%);UIS.FGP.8;0.75
-"Percentage of male students in lower secondary education enrolled in general programmes, male (%);UIS.GTVP.2.GPV.M;0.875"
-Percentage of male students in tertiary education enrolled in ISCED 8;UIS.TEP.8.M;0.9375
-"Percentage of students enrolled in primary education who are over-age, both sexes (%);UIS.OAEP.1;0.875"
-"Percentage of students enrolled in primary education who are under-age, both sexes (%);UIS.UAEP.1;0.875"
-"Percentage of students in lower secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.2.GPV;0.875"
-Percentage of students in lower secondary education who are female (%);UIS.FEP.2;0.875
-Percentage of students in lower secondary general education who are female (%);UIS.FEP.2.GPV;0.875
-Percentage of students in primary education who are female (%);SE.PRM.ENRL.FE.ZS;0.875
-Percentage of students in secondary general education who are female (%);SE.SEC.ENRL.GC.FE.ZS;0.875
-Percentage of students in secondary vocational education who are female (%);SE.SEC.ENRL.VO.FE.ZS;0.75
-Percentage of students in tertiary education who are female (%);SE.TER.ENRL.FE.ZS;0.9375
-Percentage of students in tertiary ISCED 8 programmes who are female (%);UIS.FEP.8;0.9375
-Percentage of students in upper secondary general education who are female (%);UIS.FEP.3.GPV;0.875
-Percentage of students in upper secondary vocational education who are female (%);UIS.FEP.3.V;0.75
-Percentage of teachers in lower secondary education who are female (%);UIS.FTP.2;0.875
-Percentage of teachers in pre-primary education who are female (%);SE.PRE.TCHR.FE.ZS;0.875
-Percentage of teachers in primary education who are female (%);SE.PRM.TCHR.FE.ZS;0.875
-Percentage of teachers in tertiary education who are female (%);SE.TER.TCHR.FE.ZS;0.9375
+Official entrance age to upper secondary education (years);UIS.THAGE.3.A.GPV;1.0
+"Outbound mobility ratio, all regions, both sexes (%);UIS.OMR.56;0.8"
+"Out-of-school children of primary school age in pre-primary education, both sexes (number);UIS.OFSPPT.1;0.8"
+"Out-of-school children of primary school age in pre-primary education, female (number);UIS.OFSPPT.1.F;0.8"
+"Out-of-school children of primary school age in pre-primary education, male (number);UIS.OFSPPT.1.M;0.8"
+"Out-of-school children of primary school age, both sexes (number);SE.PRM.UNER;0.8"
+"Out-of-school children of primary school age, female (number);SE.PRM.UNER.FE;0.8"
+"Out-of-school children of primary school age, male (number);SE.PRM.UNER.MA;0.8"
+"Percentage of all students in tertiary education enrolled in ISCED 5, both sexes (%);UIS.TEP.5.B;0.8"
+"Percentage of all students in tertiary education enrolled in ISCED 8, both sexes (%);UIS.TEP.8;0.8"
+Percentage of enrolment in lower secondary education in private institutions (%);UIS.PRP.2;0.8
+Percentage of enrolment in primary education in private institutions (%);SE.PRM.PRIV.ZS;1.0
+Percentage of enrolment in secondary education in private institutions (%);SE.SEC.PRIV.ZS;1.0
+Percentage of enrolment in tertiary education in private institutions (%);SE.TER.PRIV.ZS;0.8
+Percentage of enrolment in upper secondary education in private institutions (%);UIS.PRP.3;0.8
+"Percentage of female graduates from tertiary education graduating from Agriculture programmes, female (%);SE.TER.GRAD.AG.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Education programmes, female (%);SE.TER.GRAD.ED.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, female (%);SE.TER.GRAD.EN.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Health and Welfare programmes, female (%);SE.TER.GRAD.HL.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Humanities and Arts programmes, female (%);SE.TER.GRAD.HU.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from programmes in unspecified fields, female (%);SE.TER.GRAD.OT.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Science programmes, female (%);SE.TER.GRAD.SC.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Services programmes, female (%);SE.TER.GRAD.SV.FE.ZS;0.8"
+"Percentage of female graduates from tertiary education graduating from Social Sciences, Business and Law programmes, female (%);SE.TER.GRAD.SS.FE.ZS;0.8"
+"Percentage of female students enrolled in primary education who are over-age, female (%);UIS.OAEP.1.F;1.0"
+"Percentage of female students enrolled in primary education who are under-age, female (%);UIS.UAEP.1.F;0.8"
+"Percentage of female students in lower secondary education enrolled in general programmes, female (%);UIS.GTVP.2.GPV.F;0.8"
+"Percentage of female students in secondary education enrolled in general programmes, female (%);UIS.GTVP.23.GPV.F;0.8"
+"Percentage of female students in secondary education enrolled in vocational programmes, female (%);SE.SEC.ENRL.FE.VO.ZS;1.0"
+Percentage of female students in tertiary education enrolled in ISCED 5;UIS.TEP.5.B.F;0.8
+Percentage of female students in tertiary education enrolled in ISCED 8;UIS.TEP.8.F;0.8
+"Percentage of female students in upper secondary education enrolled in general programmes, female (%);UIS.GTVP.3.GPV.F;0.8"
+"Percentage of female students in upper secondary education enrolled in vocational programmes, female (%);UIS.GTVP.3.V.F;0.8"
+Percentage of graduates from Agriculture programmes in tertiary education who are female (%);SE.TER.GRAD.FE.AG.ZS;0.8
+Percentage of graduates from Education programmes in tertiary education who are female (%);SE.TER.GRAD.FE.ED.ZS;0.8
+"Percentage of graduates from Engineering, Manufacturing and Construction programmes in tertiary education who are female (%);SE.TER.GRAD.FE.EN.ZS;0.8"
+Percentage of graduates from Health and Welfare programmes in tertiary education who are female (%);SE.TER.GRAD.FE.HL.ZS;0.8
+Percentage of graduates from Humanities and Arts programmes in tertiary education who are female (%);SE.TER.GRAD.FE.HU.ZS;0.8
+Percentage of graduates from non-science and non-technology fields in tertiary education who are female (%);UIS.FGP.56.FNON400500;0.8
+Percentage of graduates from programmes in unspecified fields in tertiary education who are female (%);SE.TER.GRAD.FE.OT.ZS;0.8
+Percentage of graduates from Science and Technology programmes in tertiary education who are female (%);UIS.FGP.56.F400500;0.8
+Percentage of graduates from Science programmes in tertiary education who are female (%);SE.TER.GRAD.FE.SC.ZS;0.8
+Percentage of graduates from Services programmes in tertiary education who are female (%);SE.TER.GRAD.FE.SV.ZS;0.8
+"Percentage of graduates from Social Sciences, Business and Law programmes in tertiary education who are female (%);SE.TER.GRAD.FE.SS.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Agriculture programmes, both sexes (%);SE.TER.GRAD.AG.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Education programmes, both sexes (%);SE.TER.GRAD.ED.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, both sexes (%);SE.TER.GRAD.EN.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Health and Welfare programmes, both sexes (%);SE.TER.GRAD.HL.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Humanities and Arts programmes, both sexes (%);SE.TER.GRAD.HU.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from programmes in unspecified fields, both sexes (%);SE.TER.GRAD.OT.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Science programmes, both sexes (%);SE.TER.GRAD.SC.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Services programmes, both sexes (%);SE.TER.GRAD.SV.ZS;0.8"
+"Percentage of graduates from tertiary education graduating from Social Sciences, Business and Law programmes, both sexes (%);SE.TER.GRAD.SS.ZS;0.8"
+Percentage of graduates from tertiary education who are female (%);SE.TER.GRAD.FE.ZS;0.8
+Percentage of graduates from tertiary ISCED 5 programmes who are female (%);UIS.FGP.5.B;0.8
+Percentage of graduates from tertiary ISCED 8 programmes who are female (%);UIS.FGP.8;0.8
+"Percentage of male graduates from tertiary education graduating from Agriculture programmes, male (%);UIS.FOSGP.56.F600.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Education programmes, male (%);UIS.FOSGP.56.F140.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Engineering, Manufacturing and Construction programmes, male (%);UIS.FOSGP.56.F500.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Health and Welfare programmes, male (%);UIS.FOSGP.56.F700.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Humanities and Arts programmes, male (%);UIS.FOSGP.56.F200.M;0.8"
+"Percentage of male graduates from tertiary education graduating from programmes in unspecified fields, male (%);UIS.FOSGP.56.FUK.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Science programmes, male (%);UIS.FOSGP.56.F400.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Services programmes, male (%);UIS.FOSGP.56.F800.M;0.8"
+"Percentage of male graduates from tertiary education graduating from Social Sciences, Business and Law programmes, male (%);UIS.FOSGP.56.F300.M;0.8"
+"Percentage of male students enrolled in primary education who are over-age, male (%);UIS.OAEP.1.M;1.0"
+"Percentage of male students enrolled in primary education who are under-age, male (%);UIS.UAEP.1.M;0.8"
+"Percentage of male students in lower secondary education enrolled in general programmes, male (%);UIS.GTVP.2.GPV.M;0.8"
+"Percentage of male students in secondary education enrolled in general programmes, male (%);UIS.GTVP.23.GPV.M;0.8"
+"Percentage of male students in secondary education enrolled in vocational programmes, male (%);SE.SEC.ENRL.MA.VO.ZS;1.0"
+Percentage of male students in tertiary education enrolled in ISCED 5;UIS.TEP.5.B.M;0.8
+Percentage of male students in tertiary education enrolled in ISCED 8;UIS.TEP.8.M;0.8
+"Percentage of male students in upper secondary education enrolled in general programmes, male (%);UIS.GTVP.3.GPV.M;0.8"
+"Percentage of male students in upper secondary education enrolled in vocational programmes, male (%);UIS.GTVP.3.V.M;0.8"
+"Percentage of students enrolled in primary education who are over-age, both sexes (%);UIS.OAEP.1;1.0"
+"Percentage of students enrolled in primary education who are under-age, both sexes (%);UIS.UAEP.1;0.8"
+"Percentage of students in lower secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.2.GPV;0.8"
+Percentage of students in lower secondary education who are female (%);UIS.FEP.2;0.8
+Percentage of students in lower secondary general education who are female (%);UIS.FEP.2.GPV;0.8
+Percentage of students in primary education who are female (%);SE.PRM.ENRL.FE.ZS;1.0
+"Percentage of students in secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.23.GPV;0.8"
+"Percentage of students in secondary education enrolled in vocational programmes, both sexes (%);SE.SEC.ENRL.VO.ZS;1.0"
+Percentage of students in secondary education who are female (%);SE.SEC.ENRL.FE.ZS;1.0
+Percentage of students in secondary general education who are female (%);SE.SEC.ENRL.GC.FE.ZS;1.0
+Percentage of students in secondary vocational education who are female (%);SE.SEC.ENRL.VO.FE.ZS;1.0
+Percentage of students in tertiary education who are female (%);SE.TER.ENRL.FE.ZS;1.0
+Percentage of students in tertiary ISCED 5 programmes who are female (%);UIS.FEP.5.B;0.8
+Percentage of students in tertiary ISCED 8 programmes who are female (%);UIS.FEP.8;0.8
+"Percentage of students in upper secondary education enrolled in general programmes, both sexes (%);UIS.GTVP.3.GPV;0.8"
+"Percentage of students in upper secondary education enrolled in vocational programmes, both sexes (%);UIS.GTVP.3.V;0.8"
+Percentage of students in upper secondary education who are female (%);UIS.FEP.3;0.8
+Percentage of students in upper secondary general education who are female (%);UIS.FEP.3.GPV;0.8
+Percentage of students in upper secondary vocational education who are female (%);UIS.FEP.3.V;0.8
+Percentage of teachers in lower secondary education who are female (%);UIS.FTP.2;1.0
+Percentage of teachers in pre-primary education who are female (%);SE.PRE.TCHR.FE.ZS;1.0
+Percentage of teachers in primary education who are female (%);SE.PRM.TCHR.FE.ZS;1.0
+Percentage of teachers in secondary education who are female (%);SE.SEC.TCHR.FE.ZS;1.0
+Percentage of teachers in tertiary education who are female (%);SE.TER.TCHR.FE.ZS;1.0
+Percentage of teachers in upper secondary education who are female (%);UIS.FTP.3;1.0
 Population growth (annual %);SP.POP.GROW;1.0
-"Population of compulsory school age, both sexes (number);UIS.SAP.CE;0.8125"
-"Population of compulsory school age, female (number);UIS.SAP.CE.F;0.8125"
-"Population of compulsory school age, male (number);UIS.SAP.CE.M;0.8125"
-"Population of the official age for lower secondary education, both sexes (number);SP.SEC.LTOT.IN;0.75"
-"Population of the official age for lower secondary education, female (number);SP.SEC.LTOT.FE.IN;0.75"
-"Population of the official age for lower secondary education, male (number);SP.SEC.LTOT.MA.IN;0.75"
-"Population of the official age for pre-primary education, both sexes (number);SP.PRE.TOTL.IN;0.75"
-"Population of the official age for pre-primary education, female (number);SP.PRE.TOTL.FE.IN;0.75"
-"Population of the official age for pre-primary education, male (number);SP.PRE.TOTL.MA.IN;0.75"
-"Population of the official age for primary education, both sexes (number);SP.PRM.TOTL.IN;0.75"
-"Population of the official age for primary education, female (number);SP.PRM.TOTL.FE.IN;0.75"
-"Population of the official age for primary education, male (number);SP.PRM.TOTL.MA.IN;0.75"
-"Population of the official age for secondary education, both sexes (number);SP.SEC.TOTL.IN;0.75"
-"Population of the official age for secondary education, female (number);SP.SEC.TOTL.FE.IN;0.75"
-"Population of the official age for secondary education, male (number);SP.SEC.TOTL.MA.IN;0.75"
-"Population of the official age for tertiary education, both sexes (number);SP.TER.TOTL.IN;0.75"
-"Population of the official age for tertiary education, female (number);SP.TER.TOTL.FE.IN;0.75"
-"Population of the official age for tertiary education, male (number);SP.TER.TOTL.MA.IN;0.75"
-"Population of the official age for the last grade of primary education, both sexes (number);SP.PRM.GRAD.TO;0.75"
-"Population of the official age for the last grade of primary education, female (number);SP.PRM.GRAD.FE;0.75"
-"Population of the official age for the last grade of primary education, male (number);SP.PRM.GRAD.MA;0.75"
-"Population of the official age for upper secondary education, both sexes (number);SP.SEC.UTOT.IN;0.75"
-"Population of the official age for upper secondary education, female (number);SP.SEC.UTOT.FE.IN;0.75"
-"Population of the official age for upper secondary education, male (number);SP.SEC.UTOT.MA.IN;0.75"
-"Population of the official entrance age to primary education, both sexes (number);UIS.SAP.1.G1;0.8125"
-"Population of the official entrance age to primary education, female (number);UIS.SAP.1.G1.F;0.8125"
-"Population of the official entrance age to primary education, male (number);UIS.SAP.1.G1.M;0.8125"
-"Population of the official entrance age to secondary general education, both sexes (number);UIS.SAP.23.GPV.G1;0.8125"
-"Population of the official entrance age to secondary general education, female (number);UIS.SAP.23.GPV.G1.F;0.8125"
-"Population of the official entrance age to secondary general education, male (number);UIS.SAP.23.GPV.G1.M;0.8125"
-"Population, age 0, female;SP.POP.AG00.FE.UN;1.0"
+"Population of compulsory school age, both sexes (number);UIS.SAP.CE;0.8"
+"Population of compulsory school age, female (number);UIS.SAP.CE.F;0.8"
+"Population of compulsory school age, male (number);UIS.SAP.CE.M;0.8"
+"Population of the official age for lower secondary education, both sexes (number);SP.SEC.LTOT.IN;0.8"
+"Population of the official age for lower secondary education, female (number);SP.SEC.LTOT.FE.IN;0.8"
+"Population of the official age for lower secondary education, male (number);SP.SEC.LTOT.MA.IN;0.8"
+"Population of the official age for pre-primary education, both sexes (number);SP.PRE.TOTL.IN;0.8"
+"Population of the official age for pre-primary education, female (number);SP.PRE.TOTL.FE.IN;0.8"
+"Population of the official age for pre-primary education, male (number);SP.PRE.TOTL.MA.IN;0.8"
+"Population of the official age for primary education, both sexes (number);SP.PRM.TOTL.IN;0.8"
+"Population of the official age for primary education, female (number);SP.PRM.TOTL.FE.IN;0.8"
+"Population of the official age for primary education, male (number);SP.PRM.TOTL.MA.IN;0.8"
+"Population of the official age for secondary education, both sexes (number);SP.SEC.TOTL.IN;0.8"
+"Population of the official age for secondary education, female (number);SP.SEC.TOTL.FE.IN;0.8"
+"Population of the official age for secondary education, male (number);SP.SEC.TOTL.MA.IN;0.8"
+"Population of the official age for tertiary education, both sexes (number);SP.TER.TOTL.IN;0.8"
+"Population of the official age for tertiary education, female (number);SP.TER.TOTL.FE.IN;0.8"
+"Population of the official age for tertiary education, male (number);SP.TER.TOTL.MA.IN;0.8"
+"Population of the official age for the last grade of primary education, both sexes (number);SP.PRM.GRAD.TO;0.8"
+"Population of the official age for the last grade of primary education, female (number);SP.PRM.GRAD.FE;0.8"
+"Population of the official age for the last grade of primary education, male (number);SP.PRM.GRAD.MA;0.8"
+"Population of the official age for upper secondary education, both sexes (number);SP.SEC.UTOT.IN;0.8"
+"Population of the official age for upper secondary education, female (number);SP.SEC.UTOT.FE.IN;0.8"
+"Population of the official age for upper secondary education, male (number);SP.SEC.UTOT.MA.IN;0.8"
+"Population of the official entrance age to primary education, both sexes (number);UIS.SAP.1.G1;0.8"
+"Population of the official entrance age to primary education, female (number);UIS.SAP.1.G1.F;0.8"
+"Population of the official entrance age to primary education, male (number);UIS.SAP.1.G1.M;0.8"
+"Population of the official entrance age to secondary general education, both sexes (number);UIS.SAP.23.GPV.G1;0.8"
+"Population of the official entrance age to secondary general education, female (number);UIS.SAP.23.GPV.G1.F;0.8"
+"Population of the official entrance age to secondary general education, male (number);UIS.SAP.23.GPV.G1.M;0.8"
+"Population, age 0, female;SP.POP.AG00.FE.UN;0.8"
 "Population, age 0, male;SP.POP.AG00.MA.UN;1.0"
-"Population, age 0, total;SP.POP.AG00.TO.UN;1.0"
-"Population, age 1, female;SP.POP.AG01.FE.UN;1.0"
+"Population, age 0, total;SP.POP.AG00.TO.UN;0.8"
+"Population, age 1, female;SP.POP.AG01.FE.UN;0.8"
 "Population, age 1, male;SP.POP.AG01.MA.UN;1.0"
-"Population, age 1, total;SP.POP.AG01.TO.UN;1.0"
-"Population, age 10, female;SP.POP.AG10.FE.UN;1.0"
+"Population, age 1, total;SP.POP.AG01.TO.UN;0.8"
+"Population, age 10, female;SP.POP.AG10.FE.UN;0.8"
 "Population, age 10, male;SP.POP.AG10.MA.UN;1.0"
-"Population, age 10, total;SP.POP.AG10.TO.UN;1.0"
-"Population, age 11, female;SP.POP.AG11.FE.UN;1.0"
+"Population, age 10, total;SP.POP.AG10.TO.UN;0.8"
+"Population, age 11, female;SP.POP.AG11.FE.UN;0.8"
 "Population, age 11, male;SP.POP.AG11.MA.UN;1.0"
-"Population, age 11, total;SP.POP.AG11.TO.UN;1.0"
-"Population, age 12, female;SP.POP.AG12.FE.UN;1.0"
+"Population, age 11, total;SP.POP.AG11.TO.UN;0.8"
+"Population, age 12, female;SP.POP.AG12.FE.UN;0.8"
 "Population, age 12, male;SP.POP.AG12.MA.UN;1.0"
-"Population, age 12, total;SP.POP.AG12.TO.UN;1.0"
-"Population, age 13, female;SP.POP.AG13.FE.UN;1.0"
+"Population, age 12, total;SP.POP.AG12.TO.UN;0.8"
+"Population, age 13, female;SP.POP.AG13.FE.UN;0.8"
 "Population, age 13, male;SP.POP.AG13.MA.UN;1.0"
-"Population, age 13, total;SP.POP.AG13.TO.UN;1.0"
-"Population, age 14, female;SP.POP.AG14.FE.UN;1.0"
+"Population, age 13, total;SP.POP.AG13.TO.UN;0.8"
+"Population, age 14, female;SP.POP.AG14.FE.UN;0.8"
 "Population, age 14, male;SP.POP.AG14.MA.UN;1.0"
-"Population, age 14, total;SP.POP.AG14.TO.UN;1.0"
-"Population, age 15, female;SP.POP.AG15.FE.UN;1.0"
+"Population, age 14, total;SP.POP.AG14.TO.UN;0.8"
+"Population, age 15, female;SP.POP.AG15.FE.UN;0.8"
 "Population, age 15, male;SP.POP.AG15.MA.UN;1.0"
-"Population, age 15, total;SP.POP.AG15.TO.UN;1.0"
-"Population, age 16, female;SP.POP.AG16.FE.UN;1.0"
+"Population, age 15, total;SP.POP.AG15.TO.UN;0.8"
+"Population, age 16, female;SP.POP.AG16.FE.UN;0.8"
 "Population, age 16, male;SP.POP.AG16.MA.UN;1.0"
-"Population, age 16, total;SP.POP.AG16.TO.UN;1.0"
-"Population, age 17, female;SP.POP.AG17.FE.UN;1.0"
+"Population, age 16, total;SP.POP.AG16.TO.UN;0.8"
+"Population, age 17, female;SP.POP.AG17.FE.UN;0.8"
 "Population, age 17, male;SP.POP.AG17.MA.UN;1.0"
-"Population, age 17, total;SP.POP.AG17.TO.UN;1.0"
-"Population, age 18, female;SP.POP.AG18.FE.UN;1.0"
+"Population, age 17, total;SP.POP.AG17.TO.UN;0.8"
+"Population, age 18, female;SP.POP.AG18.FE.UN;0.8"
 "Population, age 18, male;SP.POP.AG18.MA.UN;1.0"
-"Population, age 18, total;SP.POP.AG18.TO.UN;1.0"
-"Population, age 19, female;SP.POP.AG19.FE.UN;1.0"
+"Population, age 18, total;SP.POP.AG18.TO.UN;0.8"
+"Population, age 19, female;SP.POP.AG19.FE.UN;0.8"
 "Population, age 19, male;SP.POP.AG19.MA.UN;1.0"
-"Population, age 19, total;SP.POP.AG19.TO.UN;1.0"
-"Population, age 2, female;SP.POP.AG02.FE.UN;1.0"
+"Population, age 19, total;SP.POP.AG19.TO.UN;0.8"
+"Population, age 2, female;SP.POP.AG02.FE.UN;0.8"
 "Population, age 2, male;SP.POP.AG02.MA.UN;1.0"
-"Population, age 2, total;SP.POP.AG02.TO.UN;1.0"
-"Population, age 20, female;SP.POP.AG20.FE.UN;1.0"
+"Population, age 2, total;SP.POP.AG02.TO.UN;0.8"
+"Population, age 20, female;SP.POP.AG20.FE.UN;0.8"
 "Population, age 20, male;SP.POP.AG20.MA.UN;1.0"
-"Population, age 20, total;SP.POP.AG20.TO.UN;1.0"
-"Population, age 21, female;SP.POP.AG21.FE.UN;1.0"
+"Population, age 20, total;SP.POP.AG20.TO.UN;0.8"
+"Population, age 21, female;SP.POP.AG21.FE.UN;0.8"
 "Population, age 21, male;SP.POP.AG21.MA.UN;1.0"
-"Population, age 21, total;SP.POP.AG21.TO.UN;1.0"
-"Population, age 22, female;SP.POP.AG22.FE.UN;1.0"
+"Population, age 21, total;SP.POP.AG21.TO.UN;0.8"
+"Population, age 22, female;SP.POP.AG22.FE.UN;0.8"
 "Population, age 22, male;SP.POP.AG22.MA.UN;1.0"
-"Population, age 22, total;SP.POP.AG22.TO.UN;1.0"
-"Population, age 23, female;SP.POP.AG23.FE.UN;1.0"
+"Population, age 22, total;SP.POP.AG22.TO.UN;0.8"
+"Population, age 23, female;SP.POP.AG23.FE.UN;0.8"
 "Population, age 23, male;SP.POP.AG23.MA.UN;1.0"
-"Population, age 23, total;SP.POP.AG23.TO.UN;1.0"
-"Population, age 24, female;SP.POP.AG24.FE.UN;1.0"
+"Population, age 23, total;SP.POP.AG23.TO.UN;0.8"
+"Population, age 24, female;SP.POP.AG24.FE.UN;0.8"
 "Population, age 24, male;SP.POP.AG24.MA.UN;1.0"
-"Population, age 24, total;SP.POP.AG24.TO.UN;1.0"
-"Population, age 25, female;SP.POP.AG25.FE.UN;1.0"
+"Population, age 24, total;SP.POP.AG24.TO.UN;0.8"
+"Population, age 25, female;SP.POP.AG25.FE.UN;0.8"
 "Population, age 25, male;SP.POP.AG25.MA.UN;1.0"
-"Population, age 25, total;SP.POP.AG25.TO.UN;1.0"
-"Population, age 3, female;SP.POP.AG03.FE.UN;1.0"
+"Population, age 25, total;SP.POP.AG25.TO.UN;0.8"
+"Population, age 3, female;SP.POP.AG03.FE.UN;0.8"
 "Population, age 3, male;SP.POP.AG03.MA.UN;1.0"
-"Population, age 3, total;SP.POP.AG03.TO.UN;1.0"
-"Population, age 4, female;SP.POP.AG04.FE.UN;1.0"
+"Population, age 3, total;SP.POP.AG03.TO.UN;0.8"
+"Population, age 4, female;SP.POP.AG04.FE.UN;0.8"
 "Population, age 4, male;SP.POP.AG04.MA.UN;1.0"
-"Population, age 4, total;SP.POP.AG04.TO.UN;1.0"
-"Population, age 5, female;SP.POP.AG05.FE.UN;1.0"
+"Population, age 4, total;SP.POP.AG04.TO.UN;0.8"
+"Population, age 5, female;SP.POP.AG05.FE.UN;0.8"
 "Population, age 5, male;SP.POP.AG05.MA.UN;1.0"
-"Population, age 5, total;SP.POP.AG05.TO.UN;1.0"
-"Population, age 6, female;SP.POP.AG06.FE.UN;1.0"
+"Population, age 5, total;SP.POP.AG05.TO.UN;0.8"
+"Population, age 6, female;SP.POP.AG06.FE.UN;0.8"
 "Population, age 6, male;SP.POP.AG06.MA.UN;1.0"
-"Population, age 6, total;SP.POP.AG06.TO.UN;1.0"
-"Population, age 7, female;SP.POP.AG07.FE.UN;1.0"
+"Population, age 6, total;SP.POP.AG06.TO.UN;0.8"
+"Population, age 7, female;SP.POP.AG07.FE.UN;0.8"
 "Population, age 7, male;SP.POP.AG07.MA.UN;1.0"
-"Population, age 7, total;SP.POP.AG07.TO.UN;1.0"
-"Population, age 8, female;SP.POP.AG08.FE.UN;1.0"
+"Population, age 7, total;SP.POP.AG07.TO.UN;0.8"
+"Population, age 8, female;SP.POP.AG08.FE.UN;0.8"
 "Population, age 8, male;SP.POP.AG08.MA.UN;1.0"
-"Population, age 8, total;SP.POP.AG08.TO.UN;1.0"
-"Population, age 9, female;SP.POP.AG09.FE.UN;1.0"
+"Population, age 8, total;SP.POP.AG08.TO.UN;0.8"
+"Population, age 9, female;SP.POP.AG09.FE.UN;0.8"
 "Population, age 9, male;SP.POP.AG09.MA.UN;1.0"
-"Population, age 9, total;SP.POP.AG09.TO.UN;1.0"
+"Population, age 9, total;SP.POP.AG09.TO.UN;0.8"
 "Population, ages 0-14 (% of total);SP.POP.0014.TO.ZS;1.0"
 "Population, ages 0-14, female;SP.POP.0014.FE.IN;1.0"
 "Population, ages 0-14, male;SP.POP.0014.MA.IN;1.0"
@@ -395,37 +488,74 @@ Population growth (annual %);SP.POP.GROW;1.0
 "Population, male (% of total);SP.POP.TOTL.MA.ZS;1.0"
 "Population, total;SP.POP.TOTL;1.0"
 "Prevalence of HIV, total (% of population ages 15-49);SH.DYN.AIDS.ZS;1.0"
-Pupil-teacher ratio in lower secondary education (headcount basis);UIS.PTRHC.2;0.875
-Pupil-teacher ratio in primary education (headcount basis);SE.PRM.ENRL.TC.ZS;0.875
-Pupil-teacher ratio in tertiary education (headcount basis);UIS.PTRHC.56;0.9375
-"Rate of out-of-school children of primary school age, both sexes (%);UIS.ROFST.1;0.75"
-"School life expectancy, primary and lower secondary, both sexes (years);UIS.SLE.12;0.75"
-"School life expectancy, primary and lower secondary, female (years);UIS.SLE.12.F;0.75"
-"School life expectancy, primary and lower secondary, male (years);UIS.SLE.12.M;0.75"
-"School life expectancy, primary, both sexes (years);UIS.SLE.1;0.75"
-"School life expectancy, primary, female (years);UIS.SLE.1.F;0.75"
-"School life expectancy, primary, gender parity index (GPI);UIS.SLE.1.GPI;0.75"
-"School life expectancy, primary, male (years);UIS.SLE.1.M;0.75"
-"School life expectancy, tertiary, both sexes (years);UIS.SLE.56;0.75"
-"School life expectancy, tertiary, female (years);UIS.SLE.56.F;0.75"
-"School life expectancy, tertiary, gender parity index (GPI);UIS.SLE.56.GPI;0.75"
-"School life expectancy, tertiary, male (years);UIS.SLE.56.M;0.75"
-"Teachers in lower secondary education, both sexes (number);UIS.T.2;0.875"
-"Teachers in lower secondary education, female (number);UIS.T.2.F;0.875"
-"Teachers in pre-primary education, both sexes (number);SE.PRE.TCHR;0.875"
-"Teachers in pre-primary education, female (number);SE.PRE.TCHR.FE;0.875"
-"Teachers in primary education, both sexes (number);SE.PRM.TCHR;0.875"
-"Teachers in primary education, female (number);SE.PRM.TCHR.FE;0.875"
-"Teachers in tertiary education programmes, both sexes (number);SE.TER.TCHR;0.9375"
-"Teachers in tertiary education programmes, female (number);SE.TER.TCHR.FE;0.9375"
+Pupil-teacher ratio in lower secondary education (headcount basis);UIS.PTRHC.2;1.0
+Pupil-teacher ratio in pre-primary education (headcount basis);SE.PRE.ENRL.TC.ZS;1.0
+Pupil-teacher ratio in primary education (headcount basis);SE.PRM.ENRL.TC.ZS;1.0
+Pupil-teacher ratio in secondary education (headcount basis);SE.SEC.ENRL.TC.ZS;1.0
+Pupil-teacher ratio in tertiary education (headcount basis);UIS.PTRHC.56;1.0
+Pupil-teacher ratio in upper secondary education (headcount basis);UIS.PTRHC.3;1.0
+"Rate of out-of-school adolescents of lower secondary school age, both sexes (%);UIS.ROFST.2;0.8"
+"Rate of out-of-school adolescents of lower secondary school age, female (%);UIS.ROFST.2.F;0.8"
+"Rate of out-of-school adolescents of lower secondary school age, male (%);UIS.ROFST.2.M;0.8"
+"Rate of out-of-school children of primary school age, both sexes (%);UIS.ROFST.1;0.8"
+"Rate of out-of-school children of primary school age, female (%);UIS.ROFST.1.F;0.8"
+"Rate of out-of-school children of primary school age, male (%);UIS.ROFST.1.M;0.8"
+"School life expectancy, primary to tertiary, both sexes (years);SE.SCH.LIFE;0.8"
+"School life expectancy, primary to tertiary, female (years);SE.SCH.LIFE.FE;0.8"
+"School life expectancy, primary to tertiary, male (years);SE.SCH.LIFE.MA;0.8"
+"Teachers in lower secondary education, both sexes (number);UIS.T.2;1.0"
+"Teachers in lower secondary education, female (number);UIS.T.2.F;1.0"
+"Teachers in pre-primary education, both sexes (number);SE.PRE.TCHR;1.0"
+"Teachers in pre-primary education, female (number);SE.PRE.TCHR.FE;1.0"
+"Teachers in primary education, both sexes (number);SE.PRM.TCHR;1.0"
+"Teachers in primary education, female (number);SE.PRM.TCHR.FE;1.0"
+"Teachers in secondary education, both sexes (number);SE.SEC.TCHR;1.0"
+"Teachers in secondary education, female (number);SE.SEC.TCHR.FE;1.0"
+"Teachers in tertiary education programmes, both sexes (number);SE.TER.TCHR;1.0"
+"Teachers in tertiary education programmes, female (number);SE.TER.TCHR.FE;1.0"
+"Teachers in upper secondary education, both sexes (number);UIS.T.3;1.0"
+"Teachers in upper secondary education, female (number);UIS.T.3.F;1.0"
 Theoretical duration of lower secondary education (years);SE.SEC.DURS.LO;1.0
 Theoretical duration of pre-primary education (years);UIS.THDUR.0;1.0
 Theoretical duration of primary education (years);SE.PRM.DURS;1.0
 Theoretical duration of secondary education (years);SE.SEC.DURS;1.0
 Theoretical duration of upper secondary education (years);SE.SEC.DURS.UP;1.0
-"Total net enrolment rate, primary, both sexes (%);UIS.NERT.1;0.75"
-"Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (number);UIS.OE.56.40510;1.0"
-"Under-age enrolment ratio in primary education, both sexes (%);UIS.UAPP.1;0.75"
+"Total outbound internationally mobile tertiary students studying abroad, all countries, both sexes (number);UIS.OE.56.40510;0.8"
+UIS: Percentage of population age 25+ with a completed bachelor's or equivalent degree (ISCED 6). Female;UIS.EA.6.AG25T99.F;0.8
+UIS: Percentage of population age 25+ with a completed bachelor's or equivalent degree (ISCED 6). Male;UIS.EA.6.AG25T99.M;0.8
+UIS: Percentage of population age 25+ with a completed bachelor's or equivalent degree (ISCED 6). Total;UIS.EA.6.AG25T99;0.8
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Female;UIS.EA.5T8.AG25T99.F;1.0
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Gender Parity Index;UIS.EA.5T8.AG25T99.GPI;0.8
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Male;UIS.EA.5T8.AG25T99.M;1.0
+UIS: Percentage of population age 25+ with at least a completed short-cycle tertiary degree (ISCED 5 or higher). Total;UIS.EA.5T8.AG25T99;1.0
+UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Female;UIS.EA.2T6.AG25T99.F;1.0
+UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Gender Parity Index;UIS.EA.2T6.AG25T99.GPI;0.8
+UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Male;UIS.EA.2T6.AG25T99.M;1.0
+UIS: Percentage of population age 25+ with at least completed lower secondary education (ISCED 2 or higher). Total;UIS.EA.2T6.AG25T99;1.0
+UIS: Percentage of population age 25+ with at least completed primary education (ISCED 1 or higher). Female;UIS.EA.1T6.AG25T99.F;1.0
+UIS: Percentage of population age 25+ with at least completed primary education (ISCED 1 or higher). Male;UIS.EA.1T6.AG25T99.M;1.0
+UIS: Percentage of population age 25+ with at least completed primary education (ISCED 1 or higher). Total;UIS.EA.1T6.AG25T99;1.0
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Female;UIS.EA.3T6.AG25T99.F;1.0
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Gender Parity Index;UIS.EA.3T6.AG25T99.GPI;0.8
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Male;UIS.EA.3T6.AG25T99.M;1.0
+UIS: Percentage of population age 25+ with at least completed upper secondary education (ISCED 3 or higher). Total;UIS.EA.3T6.AG25T99;1.0
+UIS: Percentage of population age 25+ with completed lower secondary education. Female;UIS.EA.2.AG25T99.F;0.8
+UIS: Percentage of population age 25+ with completed lower secondary education. Male;UIS.EA.2.AG25T99.M;0.8
+UIS: Percentage of population age 25+ with completed lower secondary education. Total;UIS.EA.2.AG25T99;0.8
+UIS: Percentage of population age 25+ with completed primary education. Female;UIS.EA.1.AG25T99.F;0.8
+UIS: Percentage of population age 25+ with completed primary education. Male;UIS.EA.1.AG25T99.M;0.8
+UIS: Percentage of population age 25+ with completed primary education. Total;UIS.EA.1.AG25T99;0.8
+UIS: Percentage of population age 25+ with completed upper secondary education. Female;UIS.EA.3.AG25T99.F;0.8
+UIS: Percentage of population age 25+ with completed upper secondary education. Male;UIS.EA.3.AG25T99.M;0.8
+UIS: Percentage of population age 25+ with completed upper secondary education. Total;UIS.EA.3.AG25T99;0.8
 "Unemployment, female (% of female labor force);SL.UEM.TOTL.FE.ZS;1.0"
 "Unemployment, male (% of male labor force);SL.UEM.TOTL.MA.ZS;1.0"
 "Unemployment, total (% of total labor force);SL.UEM.TOTL.ZS;1.0"
+"Youth illiterate population, 15-24 years, % female;UIS.LPP.AG15T24;1.0"
+"Youth illiterate population, 15-24 years, both sexes (number);UIS.LP.AG15T24;1.0"
+"Youth illiterate population, 15-24 years, female (number);UIS.LP.AG15T24.F;1.0"
+"Youth illiterate population, 15-24 years, male (number);UIS.LP.AG15T24.M;1.0"
+"Youth literacy rate, population 15-24 years, both sexes (%);SE.ADT.1524.LT.ZS;1.0"
+"Youth literacy rate, population 15-24 years, female (%);SE.ADT.1524.LT.FE.ZS;1.0"
+"Youth literacy rate, population 15-24 years, gender parity index (GPI);SE.ADT.1524.LT.FM.ZS;1.0"
+"Youth literacy rate, population 15-24 years, male (%);SE.ADT.1524.LT.MA.ZS;1.0"
