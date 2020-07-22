@@ -10,7 +10,6 @@ Bibliotecas:
 
 - Pandas
 - Zipfile
-- Matplotlib
 - Numpy
 - Scikit-learn
 - graphviz
