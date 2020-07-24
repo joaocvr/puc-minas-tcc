@@ -3,7 +3,7 @@
 Passo a passo para execução:
 
 1) Instalar [python](https://wiki.python.org/moin/BeginnersGuide/Download)
-2) Instalar bibliotecas listas na seção "Bibliotecas"
+2) Instalar bibliotecas listadas na seção "Bibliotecas"
 
 
 Bibliotecas:
