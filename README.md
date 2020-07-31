@@ -11,6 +11,7 @@ Bibliotecas:
 - Pandas
 - Zipfile
 - Numpy
+- Matplotlib
 - Scikit-learn
 - graphviz
 
